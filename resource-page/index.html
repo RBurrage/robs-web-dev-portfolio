@@ -1,0 +1,1658 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/layout.css">
+</head>
+
+<body style="	background: rgba(230, 221, 208, 0.5);">
+
+  <div class="page-container etq-resources">
+
+    <!-- Webinar Slideout -->
+    <div id="webinarSlideOut">
+      <div class="slideOutTab">
+        <div>
+          <p></p>
+        </div>
+      </div>
+      <div class="webinar-modal-content">
+        <h2>Upcoming Webinars</h2>
+
+
+        <div class="upcoming-webinars-container">
+          <div class='slider'>
+
+            <!--Slide 1-->
+            <input checked id='slide-1' name='active' type='radio'>
+            <div class='slide'>
+              <h3 class="highlighted-resource-title"><strong>EHSQ: Real World Examples of the Convergence of EHS and
+                  Quality</strong></h3>
+              <p><strong>Thursday, May 21, 1:00 PM EST</strong></p>
+              <p>Sponsored by Safety + Health Magazine</p>
+              <p><a href="#"
+                  target="_blank">Register Now ></a></p>
+            </div>
+
+            <nav class="nav">
+              <label class="next" for="slide-2"></label>
+            </nav>
+            <nav class="dots">
+              <label class="dot" for="slide-1"></label>
+              <label class="dot" for="slide-2"></label>
+            </nav>
+
+            <!--Slide 2-->
+            <input id='slide-2' name='active' type='radio'>
+            <div class='slide'>
+              <h3 class="highlighted-resource-title"><strong>State of the Profession Quality Report</strong></h3>
+              <p><strong>Thursday, May 26, 2:00 PM EST</strong></p>
+              <p>Sponsored by Quality Magazine</p>
+              <p><a
+                  href="https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI:4;F:QS!10100&ShowUUID=717FFA7B-D45D-47E3-BE64-EE390DC90F66&LangLocaleID=1033&AffiliateData=ETQ&Referrer=https%3A%2F%2Fwww.etq.com%2Fetq-resources%2F"
+                  target="_blank">Register Now ></a></p>
+            </div>
+
+            <nav class="nav">
+              <label class="prev" for="slide-1"></label>
+            </nav>
+            <nav class="dots">
+              <label class="dot" for="slide-1"></label>
+              <label class="dot" for="slide-2"></label>
+            </nav>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="intro-splash" class="splash-parent">
+      <h1 class="splash-child">ETQ Resources</h1>
+    </div>
+
+    <!-- Drop Down Panel -->
+    <div id="drop-down-panel-container">
+      <div id="drop-down-panel" style="display: none">
+        <input type="checkbox" name="toggle" id="toggle" />
+        <div class="drop-down-panel-message">
+          <!-- Filters -->
+          <section class="form-wrapper">
+            <form class="controls" id="Filters">
+
+              <fieldset>
+                <h4>Topic</h4>
+                <div class="checkbox">
+                  <input type="checkbox" value=".qm" />
+                  <label>Quality Management</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" value=".rc" />
+                  <label>Regulatory Compliance</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" id="sq" value=".sq" />
+                  <label>Supplier Quality</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" value=".fs" />
+                  <label>Food Safety</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" value=".rm" />
+                  <label>Risk Management</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" value=".em" />
+                  <label>EHS Management</label>
+                </div>
+              </fieldset>
+
+
+              <fieldset>
+                <h4>Type</h4>
+                <div class="checkbox">
+                  <input type="checkbox" value=".cs" />
+                  <label>Case Studies</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" value=".wp" />
+                  <label>White Papers</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" value=".rr" />
+                  <label>Research &amp; Reports</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" value=".wb" />
+                  <label>Webinars</label>
+                </div>
+              </fieldset>
+
+
+              <fieldset>
+                <h4>Industry</h4>
+                <div class="industry-filter">
+                  <!-- <div class="checkbox">
+                    <input type="checkbox" value=".ind-cross" />
+                    <label><strong>Cross Industry</strong></label>
+                  </div> -->
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-aerospace-and-defense" />
+                    <label>Aerospace &amp; Defense</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-chemical-and-agrosciences" />
+                    <label>Chemical &amp; AgroSciences</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-commercial-aviation" />
+                    <label>Commercial Aviation</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-consumer-goods" />
+                    <label>Consumer Goods</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-electronics" />
+                    <label>Electronics</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-energy-and-utilities" />
+                    <label>Energy &amp; Utilities</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-food-and-beverage" />
+                    <label>Food &amp; Beverage</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-general-manufacturing" />
+                    <label>General Manufacturing</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-life-sciences-and-pharma" />
+                    <label>Life Sciences/Pharma</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-manufacturing-services" />
+                    <label>Manufacturing Services</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-medical-device-and-diagnostics" />
+                    <label>Medical Device</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-services-3pl-and-distribution" />
+                    <label>Logistics, 3PL &amp; Distribution</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-metals-and-mining" />
+                    <label>Metals &amp; Mining</label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" value=".ind-wood-paper-and-furniture" />
+                    <label>Wood, Paper &amp; Furniture</label>
+                  </div>
+                </div>
+              </fieldset>
+
+              <div class="clear-filter">
+                <a id="Reset"> Clear Filters</a>
+              </div>
+
+            </form>
+          </section>
+          <!-- END Filters -->
+        </div>
+      </div>
+      <div id="drop-down-panel-trigger">Filter Resources by Topic, Type or Industry</div>
+    </div>
+    <!-- END Drop Down Panel -->
+
+
+    <main id="etq-resources" class="lazy-load">
+      <!-- fail  message -->
+      <div class="fail-message">
+        <p>There are no items found matching the selected filters. Perhaps some of the following options will be
+          helpful.</p>
+        <div class="alternate-offers">
+
+          <section class="lazy-load--item wp qm ind-cross">
+              <figure>
+                <img data-src="images/survey-quality-satisfaction.png" alt="image of survey happy and sad face">
+              </figure>
+              <article>
+                <span>Quality Management White Paper</span>
+                <h2>Why Quality Matters</h2>
+                <p>The pressure to cut costs, increase margins and invest in transformative technologies often leaves
+                  little
+                  left to spend on quality. However, these pressures can lead to a status quo approach to quality that
+                  can
+                  eventually result in compliance problems, damage to brand reputation and revenue losses.</p>
+              </article>
+            </a>
+          </section>
+
+          <section class="lazy-load--item wp qm ind-cross">
+              <figure>
+                <img data-src="images/see-hear-speak-no-evil-monkeys.jpg"
+                  alt="image of 3 monkeys see hear speak no evil">
+              </figure>
+              <article>
+                <span>Quality Management White Paper</span>
+                <h2>Why the Cost of Doing Nothing is a Quality Concern</h2>
+                <p>The fast pace of modern society means that companies
+                  who fail to keep up with the latest business trends and
+                  technology are in danger of becoming the dinosaurs
+                  of the business world. For many, the cost of doing nothing was a slow descent
+                  into irrelevance or worse... </p>
+              </article>
+            </a>
+          </section>
+
+          <section class="lazy-load--item wp qm ind-cross">
+              <figure>
+                <img data-src="images/manufacturing-woman-checking-quality.jpg" alt="image of woman checking quality">
+              </figure>
+              <article>
+                <span>Quality Management White Paper</span>
+                <h2>How to Select a Quality Management System: 7 Key Elements for Successful Implementation</h2>
+                <p>In many organizations today, implementing a
+                  software-based quality management system (QMS)
+                  is a strategic priority for operational excellence.
+                  As demand for QMS solutions grows, so does the
+                  vendor landscape, complicating decisions over which
+                  choice will ensure a successful implementation and
+                  facilitate mission-critical quality initiatives.</p>
+              </article>
+            </a>
+          </section>
+          <section class="lazy-load--item wp qm ind-cross">
+              <figure>
+                <img data-src="images/colorful-binders.jpg" alt="image of document binders">
+              </figure>
+              <article>
+                <span>Quality Management White Paper</span>
+                <h2>8 Elements of an Effective Document Control System</h2>
+                <p>Document control software that automates document
+                  creation, approval, distribution and archiving is the
+                  cornerstone of quality, environmental health and
+                  safety (EHS). In this white paper, we look at eight
+                  elements of an effective document control system
+                  and explore the benefits of using document control
+                  to drive operational excellence. </p>
+              </article>
+            </a>
+          </section>
+
+          <section class="lazy-load--item wp qm ind-cross">
+              <figure>
+                <img data-src="images/speedometer.jpg" alt="image of speedometer">
+              </figure>
+              <article>
+                <span>Quality Management White Paper</span>
+                <h2>ETQ QMS Guide: Time to Drop Paper &amp; Spreadsheet-based Processes</h2>
+                <p>In 2018,
+                  United Airlines redesigned its inflight magazine
+                  to weigh an ounce less than the previous issues saving the company $290,000 in fuel and operating
+                  costs.
+                  This perfectly illustrates a paradigm shift within
+                  competitive markets; gone are the days of relying on
+                  the old company adage, “this is how it’s always been
+                  done.” Business leaders now ask, “how can it be done
+                  smarter, faster and easier?” </p>
+              </article>
+            </a>
+          </section>
+
+          <section class="lazy-load--item wp sq ind-cross">
+            <!-- not industry specific -->
+              <figure>
+                <img data-src="images/manufacturing-bottles.jpg" alt="image of soda bottles in manufacturing plant">
+              </figure>
+              <article>
+                <span>Supplier Quality White Paper</span>
+                <h2>Supplier Quality is Only as Strong as Your Weakest Link</h2>
+                <p>As your supplier list grows, so does the risk of supplier quality failure. With the potential cost
+                  and
+                  damage to brand reputation of a single recall, organizations must proactively manage supplier quality.
+                </p>
+              </article>
+            </a>
+          </section>
+        </div>
+      </div>
+      <!-- end fail message -->
+
+
+      <!-- Highlighted Webinar -->
+
+      <div class="highlighted-resource">
+        <div class="highlighted-resource-copy">
+          <h2 style="text-transform: uppercase;color: #333;font-weight: bold;">Upcoming Webinar &mdash; Thursday, May 21
+            | 1:00 PM EST</h2>
+          <h2 class="highlighted-resource-title"><strong>EHSQ: Real World EHS and Quality Convergence Examples</strong>
+          </h2>
+
+          <p>Join a panel of your peers and industry experts for an interactive look into the convergence of EHS and
+            QMS to create an integrated platform for continuous improvement.
+          </p>
+          <p class="reg-button">
+            <a class="button-rubineRed resource-btn"
+              href="#" target="_blank">Register
+              Now</a></p>
+        </div>
+        <a href="#">
+          <div class="highlighted-resource-visual">
+            <p>ETQ COVID-19 QMS and EHS Resources</p>
+          </div>
+        </a>
+      </div>
+
+      <!-- END Highlighted Webinar -->
+
+
+      <section class="lazy-load--item mix rr qm ind-cross">
+          <figure>
+            <img data-src="images/cityscape.jpg" alt="image of cityscape">
+          </figure>
+          <article>
+            <span>Featured Customers Spring 2020 Report</span>
+            <h2>ETQ Named Best in Category</h2>
+            <p>The latest Featured Customers Customer Success Report ranks the leading quality management software tools
+              and solutions based on data from its customer reference platform, market presence, web presence, social
+              presence, additional data aggregated from online sources and media properties. See the latest Featured
+              Customers report for some ETQ customer references.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <!-- ETQ Survey Results -->
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/etq-survey-results.jpg" alt="image of etq survey results cover art">
+          </figure>
+          <article>
+            <span>ETQ 2020 Survey and Analysis</span>
+            <h2>The Rise of Quality as a Strategic Business Initiative</h2>
+            <p>ETQ engaged leading research firm, Salloway Associates, to survey 300 C-level executives, quality and IT
+              managers to learn key trends and common challenges with their quality initiatives. This first-of-its-kind
+              survey uncovered an important shift how organizations are treating quality – today, more organizations
+              view quality as a strategic initiative, not just a compliance need. In fact, survey data shows 66% of
+              organizations categorize quality as a strategic growth investment with and average ROI on quality programs
+              of 23%. This ebook also includes the results of an additional survey on the business and quality process
+              impacts of COVID-19.</p>
+          </article>
+        </a>
+      </section>
+
+      <!-- Measurable ROI -->
+      <section class="lazy-load--item mix wp sq ind-cross">
+          <figure>
+            <img data-src="images/etq-collaboration.jpg" alt="image of employees collaborating">
+          </figure>
+          <article>
+            <span>Infographic</span>
+            <h2>Move Your Quality Group from a Cost-center to a Profit Center with ETQ Reliance</h2>
+            <p>ETQ Reliance meets you wherever you are on your quality journey by easily integrating with and enhancing
+              your existing business processes to deliver maximum value from your QMS investment. By automating
+              workflows, breaking down data silos and increasing visibility across the quality ecosystem, ETQ Reliance
+              has systematically reduced risk and improved performance for customers such as GE, Subway and Avanos.</p>
+          </article>
+        </a>
+      </section>
+
+      <!-- White Papers -->
+
+      <section class="lazy-load--item mix wp sq ind-cross">
+          <figure>
+            <img data-src="images/factory-assembly-line.png" alt="image of a factory assembly line">
+          </figure>
+          <article>
+            <span>Supplier Quality White Paper</span>
+            <h2>Turning Your Supply Chain into a Powerful Differentiator</h2>
+            <p>Today’s customers are harder than ever to satisfy. Their expectations have increased exponentially as
+              mobile devices and digital channels empower them to maintain complete control of the buying process.
+              For both B2B and B2C businesses, the pressure is on to adapt quickly to changing behaviors and address
+              ever-increasing competition. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/survey-quality-satisfaction.png" alt="image of survey happy and sad face">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Why Quality Matters</h2>
+            <p>The pressure to cut costs, increase margins and invest in transformative technologies often leaves little
+              left to spend on quality. However, these pressures can lead to a status quo approach to quality that can
+              eventually result in compliance problems, damage to brand reputation and revenue losses.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/see-hear-speak-no-evil-monkeys.jpg" alt="image of 3 monkeys see hear speak no evil">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Why the Cost of Doing Nothing is a Quality Concern</h2>
+            <p>The fast pace of modern society means that companies
+              who fail to keep up with the latest business trends and
+              technology are in danger of becoming the dinosaurs
+              of the business world. For many, the cost of doing nothing was a slow descent
+              into irrelevance or worse... </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/manufacturing-woman-checking-quality.jpg" alt="image of woman checking quality">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>How to Select a Quality Management System: 7 Key Elements for Successful Implementation</h2>
+            <p>In many organizations today, implementing a
+              software-based quality management system (QMS)
+              is a strategic priority for operational excellence.
+              As demand for QMS solutions grows, so does the
+              vendor landscape, complicating decisions over which
+              choice will ensure a successful implementation and
+              facilitate mission-critical quality initiatives.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-consumer-goods">
+          <figure>
+            <img data-src="images/man-using-tablet-automation.jpg" alt="image of man using tablet">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>The Automation Guidebook: Top 3 Processes to Automate to Improve Quality Management</h2>
+            <p>Quality professionals recognize that streamlining
+              processes can deliver significant returns, but many
+              are unsure where or how to start. With dozens or
+              even hundreds of processes, automating them all
+              can seem overwhelming.
+              In fact, research shows that while a majority of
+              companies want to automate critical quality processes,
+              less than half of them have actually made the leap. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-general-manufacturing">
+          <figure>
+            <img data-src="images/male-engineer.png" alt="image of male engineer">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>How Manufacturers Mitigate Quality and Safety Risks</h2>
+            <p>Manufacturers face unprecedented threats from every direction including prolonged global trade
+              uncertainties, market volatility, rapidly shifting consumer preferences and more complex supply chains.
+              Manufacturers face increasing levels of risk and the potential negative impact to both the bottom line and
+              brand reputation. Learn how manufacturing leaders manage their toughest quality challenges with ETQ.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-electronics">
+          <figure>
+            <img data-src="images/electronic-motherboards.png" alt="image of electronics motherboards">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Learn How Global Electronics Brands Unlock Efficiency &amp; Transform Quality</h2>
+            <p>Customer expectations grow more demanding by the day, creating enormous risks for electronics and
+              appliance manufacturers struggling with not only shrinking product life cycles, but also a roster of more
+              complex products. Learn how ETQ helps electronics leaders manage their toughest quality challenges.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-general-manufacturing ind-wood-paper-and-furniture">
+          <figure>
+            <img data-src="images/colorful-binders.jpg" alt="image of document binders">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>8 Elements of an Effective Document Control System</h2>
+            <p>Document control software that automates document
+              creation, approval, distribution and archiving is the
+              cornerstone of quality, environmental health and
+              safety (EHS). In this white paper, we look at eight
+              elements of an effective document control system
+              and explore the benefits of using document control
+              to drive operational excellence. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/speedometer.jpg" alt="image of speedometer">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>ETQ QMS Guide: Time to Drop Paper &amp; Spreadsheet-based Processes</h2>
+            <p>In 2018,
+              United Airlines redesigned its inflight magazine
+              to weigh an ounce less than the previous issues saving the company $290,000 in fuel and operating costs.
+              This perfectly illustrates a paradigm shift within
+              competitive markets; gone are the days of relying on
+              the old company adage, “this is how it’s always been
+              done.” Business leaders now ask, “how can it be done
+              smarter, faster and easier?” </p>
+          </article>
+        </a>
+      </section>
+
+      <section
+        class="lazy-load--item mix wp sq ind-manufacturing-services ind-electronics ind-wood-paper-and-furniture">
+          <figure>
+            <img data-src="images/manufacturing-bottles.jpg" alt="image of soda bottles in manufacturing plant">
+          </figure>
+          <article>
+            <span>Supplier Quality White Paper</span>
+            <h2>Supplier Quality is Only as Strong as Your Weakest Link</h2>
+            <p>As your supplier list grows, so does the risk of supplier quality failure. With the potential cost and
+              damage to brand reputation of a single recall, organizations must proactively manage supplier quality.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/men-hardhats-warehouse.jpg" alt="image of men assuring quality in warehouse">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Turning Your Supply Chain into a Powerful Differentiator</h2>
+            <p>Customer expectations have increased exponentially as
+              mobile devices and digital channels empower them
+              to maintain complete control of the buying process.
+              For both B2B and B2C businesses, the pressure is on
+              to adapt quickly to changing behaviors and address
+              ever-increasing competition.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/code-brain.jpg" alt="image of brain with overlay of computer code">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>ETQ Guidebook: Improving Quality Through Advanced Analytics</h2>
+            <p>The role of data and analytics is crucial in business optimization strategies. Organizations with a
+              strong data culture can provide insights into supplier quality, manufacturing processes, customer feedback
+              and complaints and problem resolution.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/corrective-action.jpg" alt="image of quality engineers fixing machine">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Is Your Corrective Action Process Blocking Continuous Improvement?</h2>
+            <p>New product introduction (NPI) is critical to corporate success,
+              particularly for the industrial or manufacturing enterprise. It’s an
+              important lever to improve market share and revenue, defend existing
+              markets against competitors, and improve the customer’s experience.
+              Developing and launching profitable, timely, high-quality products is
+              more important today than ever before.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp fs ind-food-and-beverage">
+          <figure>
+            <img data-src="images/food-2men-quality.jpg" alt="image of men checking food quality">
+          </figure>
+          <article>
+            <span>Food Safety White Paper</span>
+            <h2>ETQ Delivers Rapid Value to Solve Food &amp; Beverage Quality Challenges</h2>
+            <p>Food and beverage manufacturers today must grapple
+              with a host of issues that impact quality, from rapidly
+              evolving regulatory issues
+              to ever more complex supply chains. In order to stay
+              competitive, food and beverage firms must know how
+              to quickly and effectively respond to this dynamic
+              market landscape.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-medical-device-and-diagnostics">
+          <figure>
+            <img data-src="images/robotics.jpg" alt="image of medical device">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Medical Device Leaders Accelerate Their Quality Journey with ETQ Reliance</h2>
+            <p>Medical device companies are facing an ever-evolving landscape of
+              regulatory challenges and shifting obstacles for marketing products.
+              One of the fastest-growing risks centers on how companies will adapt to
+              the rapidly approaching implementation EU Medical Device Regulation
+              (MDR) deadline of May 26, 2020, which will usher in the biggest changes to
+              European device legislation in more than 20 years. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp fs ind-food-and-beverage">
+          <figure>
+            <img data-src="images/soda-cans-conveyer-belt.jpg" alt="image of cans on a conveyer belt">
+          </figure>
+          <article>
+            <span>Food Safety White Paper</span>
+            <h2>Are You Ready for FSMA 2020?</h2>
+            <p>This time,
+              your quality team caught the problem before anyone
+              got sick. Next time, you might not be so lucky. Your
+              manual tracking system is just not up to the task of
+              tracking all of your products to their sources, and
+              even though no one got sick, each recall is costing the
+              company millions in lost revenue, lost good will, and
+              production downtime. You are tired of reacting and
+              want to be able to predict and mitigate risks before
+              they become public-facing.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp rc ind-medical-device-and-diagnostics ind-life-sciences-and-pharma">
+          <figure>
+            <img data-src="images/med-device-monitor.jpg" alt="image of medicial device monitor">
+          </figure>
+          <article>
+            <span>Regulatory Compliance White Paper</span>
+            <h2>The FDA Migration from QSR to ISO 13485 and QSIT to MDSAP</h2>
+            <p>The push for medical device innovation is reaching
+              a high point, as manufacturers seek to meet needs
+              around the rising prevalence of chronic conditions
+              and an aging population. These scientific innovations
+              demand new, more flexible regulatory approaches to
+              help speed products safely to market.
+              To keep pace with innovation and ease
+              regulatory burden and compliance, significant,
+              broad regulatory overhaul is taking place around the
+              world. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp rc ind-life-sciences-and-pharma">
+          <figure>
+            <img data-src="images/life-science-test-beakers.jpg" alt="image of eyedropper and beaker">
+          </figure>
+          <article>
+            <span>Regulatory Compliance White Paper</span>
+            <h2>ETQ Reliance Validation</h2>
+            <p>Validation is one of the biggest pain points for life science companies when implementing new software
+              into their existing IT infrastructure. Learn how ETQ’s Reliance Software-as-a-Service solution can
+              help life sciences companies clear existing barriers to validation with ease.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp qm ind-cross">
+          <figure>
+            <img data-src="images/woman-glasses-at-computer.jpg" alt="image of woman working at computer">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Your Guide to Employee Training</h2>
+            <p>Change can scare a lot of people, but in today’s
+              workplace managing change is what keeps people
+              relevant. Employee training is key to most change initiatives.
+              This is important because people are the cornerstone
+              of any successful business operation—therefore the
+              overall success of a business often correlates directly
+              with the knowledge of its employees. This is where the
+              Training Management System comes in.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp rm ind-energy-and-utilities ind-chemical-and-agrosciences">
+          <figure>
+            <img data-src="images/chess-game.jpg" alt="image of chess pieces on gameboard">
+          </figure>
+          <article>
+            <span>Risk Management White Paper</span>
+            <h2>The Risk Management Guidebook: Strategies, Tools for Success</h2>
+            <p>Mergers, company growth, new
+              regulations and standards are making compliance
+              increasingly complex, leaving room for hidden
+              problems to grow in size and cost.
+              To achieve process
+              excellence and secure your brand’s reputation,
+              companies must have a strong grasp of risk within
+              their organization. Risk management provides a
+              critical lever for managing complexity, acting as
+              a universal measuring stick for standardized
+              decision-making in any area of the business.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section
+        class="lazy-load--item mix wp rm ind-energy-and-utilities ind-aerospace-and-defense ind-commercial-aviation ind-metals-and-mining">
+          <figure>
+            <img data-src="images/risk-umbrella-standing-out-amongst-others.jpg"
+              alt="image of blue umbrella in a group of white ones">
+          </figure>
+          <article>
+            <span>Risk Management White Paper</span>
+            <h2>How to Define and Build a Risk Management Strategy for Quality and Compliance Management Systems</h2>
+            <p>Change is the only constant in business. Evolving
+              products, processes and regulations are all driving one
+              another towards faster rates of change, making quality
+              and compliance management more and more complex.
+              Organizations must address quality, safety
+              and compliance, but these efforts can become
+              disorganized with added business complexity.
+              The question becomes, how can companies deliver
+              on mission-critical responsibilities in the face
+              of accelerating change?</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp rm ind-life-sciences-and-pharma">
+          <figure>
+            <img data-src="images/yellow-gears.jpg" alt="image of risk management gears">
+          </figure>
+          <article>
+            <span>Risk Management White Paper</span>
+            <h2>Risk Management Software</h2>
+            <p>The latest revisions of ISO standards require companies to apply risk-based thinking in their
+              process planning, operations and performance evaluation. To embrace this shift, risk must be
+              considered in every quality activity. Having tools to identify, mitigate and report on risk lets you
+              seamlessly incorporate risk into all processes rather than keeping it a siloed activity. Quality conscious
+              companies visualize, streamline and share their most critical process information to
+              turn risk insight into action that transforms quality and compliance into market advantage. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp rm ind-services-3pl-and-distribution ind-metals-and-mining">
+          <figure>
+            <img data-src="images/lightning-umbrella.jpg" alt="image of man holding umbrella in lightning storm">
+          </figure>
+          <article>
+            <span>Risk Management White Paper</span>
+            <h2>The EHS Risk Management Guidebook: A Practical How-To Guide</h2>
+            <p>Nearly 4 in 5 Environmental, Health and Safety (EHS) professionals recognize that risk management is a
+              key
+              factor in achieving EHS goals, yet mitigating risk with technology remains a challenge.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp em ind-cross">
+          <figure>
+            <img data-src="images/woman-wearing-hardhat.jpg" alt="image of woman wearing hardhat">
+          </figure>
+          <article>
+            <span>EHS Management White Paper</span>
+            <h2>Your Ultimate Guide to Employee Safety</h2>
+            <p>The best way to reduce incident rates in your workplace is to create a total safety culture,
+              where employee safety is a company-wide priority. This requires company-wide
+              buy-in, comprehensive training and full communication from the top level down. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp rm ind-cross">
+          <figure>
+            <img data-src="images/block-letters-risk.jpg" alt="image of block letters that spell risk">
+          </figure>
+          <article>
+            <span>Risk Management White Paper</span>
+            <h2>Getting Started with Risk in ISO 9001:2015</h2>
+            <p>The old
+              mindset of using corrective and preventive actions to deal with
+              adverse events has been replaced with the risk-driven approach,
+              aiming to prevent it from happening rather than recovering
+              once it happens. For those that are new to Risk Management,
+              however, this can be a challenging shift. Not only do business
+              leaders need to understand the latest standard, they need to
+              understand the role of risk and the tools available to them to
+              help manage risk.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wp rm ind-cross">
+          <figure>
+            <img data-src="images/etq-typing-on-keyboard.jpg" alt="image of typing on keyboard">
+          </figure>
+          <article>
+            <span>Quality Management White Paper</span>
+            <h2>Key Changes in ISO 9001:2015</h2>
+            <p>ISO 9001:2015 brought with it a mindset shift. While the requirements are still there, the 2015 revisions
+              encourage organizations to focus on the final goal: delivering consistent quality to customers through
+              people and processes. The flexibility inherent in those changes laid the groundwork for integrating
+              technology configured to work with a particular organization’s processes and workflows.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <!-- END White Papers -->
+
+      <!-- Case Studies -->
+
+      <section class="lazy-load--item mix cs rm em ind-chemical-and-agrosciences">
+          <figure class="case-study">
+            <img data-src="images/nutrien-logo.png" class="logo-image" alt="image of Nutrien logo">
+          </figure>
+          <article>
+            <span>EHS and Risk Management Case Study</span>
+            <h2>Nutrien Builds the Foundation of its
+              Culture of Safety with ETQ Reliance</h2>
+            <p>In 2018, Nutrien was formed to become the largest vertically integrated agricultural input provider in
+              the world. As with any merger, the technology and tools that support the formation and progress of the
+              organization need to be aligned.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs rm em ind-aerospace-and-defense ind-commercial-aviation">
+          <figure class="case-study">
+            <img data-src="images/aircraft.svg" class="logo-image" alt="image of aircraft">
+          </figure>
+          <article>
+            <span>EHS and Risk Management Case Study</span>
+            <h2>ETQ Helps Global Aircraft Manufacturer
+              Bring People Home Everywhere, Every time</h2>
+            <p>There is increased customer demand for products that have higher performance and greater capacity than
+              existing models. While there is a defined record of pioneering flight solutions within the company,
+              there’s constant pressure to balance safety, quality
+              and innovation.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-medical-device-and-diagnostics">
+          <figure class="case-study">
+            <img data-src="images/avanos-logo.png" class="logo-image" alt="image of Avanos Logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>Avanos Uses More than 25 Reliance
+              Applications to Automate Several Critical
+              Quality Management Processes</h2>
+            <p>As an early adopter of MDSAP, the company needed to revisit its quality
+              management strategy and processes in order to ensure compliance and quality
+              excellence under this new system.
+              Avanos designed a unique audit Management module on Reliance that was
+              specific to MDSAP and satisfied the requirements of all five jurisdictions. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-electronics">
+          <figure class="case-study">
+            <img data-src="images/lumileds-logo.png" class="logo-image" alt="image of Lumileds Logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>Lumileds: Kaizen Lights the Way</h2>
+            <p>Lumileds is the global leader in light engine technology. Prior to implementing ETQ Reliance, they used a
+              host of siloed systems across “off the shelf” software, SharePoint, or staff-built software applications
+              to manage their quality systems and processes.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs rc ind-chemical-and-agrosciences">
+          <figure class="case-study">
+            <img data-src="images/lubrizol.png" class="logo-image" alt="image of Lubrizol logo">
+          </figure>
+          <article>
+            <span>Regulatory Compliance Case Study</span>
+            <h2>ETQ Reliance: A Customized Solution Becomes a Standard Communication Tool and Creates Visibility and
+              Improved Transparency</h2>
+            <p>Lubrizol Corporation identified the need to improve the internal processes related to nonconforming
+              product management.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-electronics ind-services-3pl-and-distribution">
+
+        <figure class="case-study video">
+          <script src="https://fast.wistia.com/embed/medias/iz72quy9c5.jsonp" async></script>
+          <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+          <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+            <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span
+                class="wistia_embed wistia_async_iz72quy9c5 popover=true popoverAnimateThumbnail=true videoFoam=true"
+                style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div>
+          </div>
+        </figure>
+        <article>
+          <span>Quality Management Case Study</span>
+          <h2>Celestica Creates a Globally Harmonized Quality Management Solution with ETQ</h2>
+          <p>With a strong focus on serving the world’s leading technology companies, Celestica provides an end-to-end
+            supply chain solution for electronics manufacturing. Find out how ETQ Reliance helped Celestica to
+            harmonize their quality processes across their global organization.</p>
+        </article>
+      </section>
+
+      <section class="lazy-load--item mix cs rc ind-general-manufacturing">
+          <figure class="case-study">
+            <img data-src="images/rheem-vector-logo.png" class="logo-image" alt="image of Rheem logo">
+          </figure>
+          <article>
+            <span>Regulatory Compliance Case Study</span>
+            <h2>Rheem Gets Innovative with ETQ Reliance</h2>
+            <p>Learn how ETQ enabled Rheem to use the existing principles of Systems Development LIfe Cycle (SDLC) but
+              with an innovative twist that allowed the company to move quickly in a fast-paced business environment.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-cross">
+        <script src="https://fast.wistia.com/embed/medias/vagswakcp7.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia-span" class="wistia_embed wistia_async_vagswakcp7 popover=true popoverContent=link"
+          style="display:inline;position:relative">
+            <figure class="case-study">
+              <img data-src="images/logo-ETS.png" class="logo-image" alt="image of ETS logo">
+            </figure>
+            <article>
+              <span>Quality Management Case Study</span>
+              <h2>Educational Testing Service (ETS)</h2>
+              <p>ETS is the world’s largest private, nonprofit educational testing and assessment organization. ETS has
+                over 3,000 employees and does business in 150 countries.</p>
+            </article>
+          </a>
+        </span>
+      </section>
+
+      <section class="lazy-load--item mix cs fs ind-food-and-beverage">
+          <figure class="case-study">
+            <img data-src="images/subway-logo.png" class="logo-image" alt="image of Subway logo">
+          </figure>
+          <article>
+            <span>Food Safety Case Study</span>
+            <h2>Subway<sup><small>&reg;</small></sup> Selects ETQ Reliance<sup><small>&trade;</small></sup> and Reaps
+              the Benefits of Automation</h2>
+            <p>Learn how ETQ Reliance has provided SUBWAY<sup><small>&reg;</small></sup> with a flexible solution that
+              will grow with their company and scale to meet its future needs, in an automated and configurable solution
+              that saves time and enhances the end user experience.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs em ind-general-manufacturing ind-consumer-goods">
+          <figure class="case-study">
+            <img data-src="images/kimberly-clark-logo.png" class="logo-image" alt="image of Kimberly Clark logo">
+          </figure>
+          <article>
+            <span>EHS Management Case Study</span>
+            <h2>Kimberly-Clark Integrates Safety, Environmental, and Quality Workflows to Achieve Maximum Harmonization
+            </h2>
+            <p>Using ETQ as a platform, K-C was able to integrate their overlapping point solutions into a harmonized
+              SEQ process. This is allowing them to completely eliminate system fragmentation and is resulting in global
+              standardization for their organization.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs em ind-general-manufacturing ind-consumer-goods">
+          <figure class="case-study">
+            <img data-src="images/kimberly-clark-logo.png" class="logo-image" alt="image of Kimberly Clark logo">
+          </figure>
+          <article>
+            <span>EHS Management Case Study</span>
+            <h2>Kimberly-Clark Streamlines Supplier Management with ETQ</h2>
+            <p>Learn how K-C created a central and secure platform for supplier management by making contracts
+              searchable across the organization and eliminating inefficiencies by implementing ETQ Reliance as their
+              automated Quality Management System.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm rc ind-general-manufacturing">
+          <figure class="case-study">
+            <img data-src="images/fujifilm-logo.png" class="logo-image" alt="image of FUJIFILM logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>FUJIFILM Manufacturing U.S.A., Inc Consolidates and Coordinates Processes Using ETQ</h2>
+            <p>Since implementing ETQ Reliance<sup><small>&trade;</small></sup> web-based compliance management system,
+              FUJIFILM has combined its external audits into an integrated continuous assessment, greatly reducing the
+              cost to maintain registration to both ISO 9001 and ISO 14001.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs fs ind-food-and-beverage">
+          <figure class="case-study">
+            <img data-src="images/carolina-beverage-logo.png" class="logo-image" alt="image of Carolina Beverage logo">
+          </figure>
+          <article>
+            <span>Food Safety Case Study</span>
+            <h2>Carolina Beverage Uses ETQ QMS for Streamlined and Effective Document Management</h2>
+            <p>Since implementing ETQ Reliance<sup><small>&trade;</small></sup> Carolina Beverage’s initial challenges
+              have been effectively addressed. They now have almost all Standard Operating Procedures (SOPs) housed
+              within the ETQ system and have removed all uncontrolled copies from their file server.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-general-manufacturing ind-chemical-and-agrosciences">
+          <figure class="case-study">
+            <img data-src="images/logo-polaris.png" class="logo-image" alt="image of Polaris logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>POLARIS Laboratories<sup><small>&reg;</small></sup> Improves Quality System KPIs</h2>
+            <p>POLARIS is an expert in helping customers address tough fluid analysis challenges by interpreting test
+              results with the most accurate understanding of wear and performance concerns of their equipment.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-life-sciences-and-pharma ind-medical-device-and-diagnostics">
+          <figure class="case-study">
+            <img data-src="images/logo-disc-genics.png" class="logo-image" alt="image of DiscGenics logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>DiscGenics<sup><small>&reg;</small></sup> Automates their Quality Processes</h2>
+            <p>DiscGenics was looking for a turn-key solution Quality Management System (QMS) that would support the
+              company through pre-clinical and clinical trials, into commercialization.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm rc ind-general-manufacturing ind-manufacturing-services">
+          <figure class="case-study">
+            <img data-src="images/logo-cooper-tires.png" class="logo-image" alt="image of Cooper Tires logo">
+          </figure>
+          <article>
+            <span>Quality Management/Regulatory Compliance Case Study</span>
+            <h2>Cooper Tire Uses Flexibility of ETQ Reliance<sup><small>&trade;</small></sup> to Innovatively Implement
+              Internal Audit Module</h2>
+            <p>ETQ’s flexible platform enabled Cooper Tire to configure the Audits module to meet their requirements,
+              without extensive programming or development.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-wood-paper-and-furniture ind-consumer-goods">
+          <figure class="case-study">
+            <img data-src="images/logo-herman-miller.png" class="logo-image" alt="image of Herman Miller logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>Herman Miller Collaborates and Integrates Using ETQ</h2>
+            <p>Herman Miller, Inc. (HMI), an international office furniture manufacturer, relies on ETQ to manage its
+              entire document control system, including its supply chain management process. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs fs ind-food-and-beverage">
+          <figure class="case-study">
+            <img data-src="images/manitoba-harvest-logo.png" class="logo-image" alt="image of Herman Miller logo">
+          </figure>
+          <article>
+            <span>Food Safety Case Study</span>
+            <h2>Manitoba Harvest Automates Document Control</h2>
+            <p>Manitoba recognized a need for an automated system to help them review documents, make revisions, file
+              records and store all documents, while also cutting down on management time and efforts.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs fs rc ind-food-and-beverage">
+          <figure class="case-study">
+            <img data-src="images/maple-leaf-farms-logo-white.png" class="logo-image"
+              alt="image of Maple Leaf Farms logo">
+          </figure>
+          <article>
+            <span>Food Safety/Regulatory Compliance Case Study</span>
+            <h2>Maple Leaf Farms Standardizes Enterprise-Wide with ETQ Reliance</h2>
+            <p>Maple Leaf Farms is a fourth generation family-owned company. In 2009, with a goal of becoming a
+              GFSI-certified facility and with the pending FSMA rule, it had begun to realize that document control and
+              record keeping was a continuous and increasing challenge.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs fs ind-food-and-beverage">
+          <figure class="case-study">
+            <img data-src="images/epicure-logo-white.svg" class="logo-image" alt="image of Epicure logo">
+          </figure>
+          <article>
+            <span>Food Safety Case Study</span>
+            <h2>Epicure<sup><small>&trade;</small></sup> Gets Automated with ETQ
+              Reliance<sup><small>&trade;</small></sup></h2>
+            <p>Epicure needed a flexible solution that would enable it to ensure that the company’s unique processes
+              could be recreated in an automated workflow. ETQ was able to meet this need by demonstrating its ability
+              to be flexible without the need for programming knowledge or extensive configurations.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-general-manufacturing">
+          <figure class="case-study">
+            <img data-src="images/virginia-blood-services-logo.png" class="logo-image"
+              alt="image of Virginia Blood logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>Virginia Blood Services Fosters Automation Through ETQ Quality Management System</h2>
+            <p>VBS was able to utilize ETQ’s out-of-the-box modules and utilities to automate many of their processes.
+              Through use of ETQ’s flexible platform, the company was able to configure a new application, which
+              efficiently managed and tracked a particular process. The automated QC application allows a more efficient
+              daily QC process at the locations where these analyzers are installed.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs rc ind-commercial-aviation ind-aerospace-and-defense">
+          <figure class="case-study">
+            <img data-src="images/airplane.svg" style="color:blue" class="logo-image" alt="image of Airplane">
+          </figure>
+          <article>
+            <span>Regulatory Compliance Case Study</span>
+            <h2>Implementing a Holistic Airline Safety Management System</h2>
+            <p>Now, more than ever, airline carriers are required to demonstrate their commitment to numerous
+              regulations — navigating these protocols can be challenging.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-aerospace-and-defense">
+          <figure class="case-study">
+            <img data-src="images/src-logo-white.png" class="logo-image" alt="image of SRC logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>SRC Takes Control of Its Documents with ETQ Reliance</h2>
+            <p>Learn how SRC leveraged ETQ's Reliance to automate and consolidate document workflows, diminish
+              overproduction and streamline their document update process.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs em ind-general-manufacturing ind-metals-and-mining">
+          <figure class="case-study">
+            <img data-src="images/alcan-logo.png" class="logo-image" alt="image of Alcan logo">
+          </figure>
+          <article>
+            <span>EHS Management Case Study</span>
+            <h2>Alcan Aluminum Corp. Grows Their System with ETQ</h2>
+            <p>ETQ has allowed Alcan to benefit from the automated transactions management and electronic delivery of
+              documents, freeing up thousands of hours of administrative resources typically associated with the
+              implementation and maintenance of a Quality System.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm ind-general-manufacturing">
+          <figure class="case-study">
+            <img data-src="images/kay-automotive-logo.png" class="logo-image" alt="image of Kay Automotive logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>Kay Automotive Graphics Selects ETQ Reliance™ to Automate Document Control</h2>
+            <p>Kay Automotive Graphics uses ETQ to overcome business challenges—for example, preliminary Purchasing
+              Requisitions, Paid Time Off (PTO) scheduling and any processes that require documented sign-off and
+              routing like new equipment purchases, maintenance requests, expense reports and more.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix cs qm rm ind-aerospace-and-defense ind-commercial-aviation">
+          <figure class="case-study">
+            <img data-src="images/sikorsky-logo.png" class="logo-image" alt="image of Sikorsky logo">
+          </figure>
+          <article>
+            <span>Quality Management Case Study</span>
+            <h2>Sikorsky Manages Aviation Safety with ETQ</h2>
+            <p>Sikorsky, a subsidiary of Lockheed Martin, is an American aircraft manufacturer established by Igor
+              Sikorsky in
+              1923. The company was among the first to manufacture
+              helicopters for civilian and military use.</p>
+          </article>
+        </a>
+      </section>
+
+      <!-- END Case Studies -->
+
+      <!-- Research and Reports -->
+
+      <section class="lazy-load--item mix rr qm ind-cross">
+          <figure>
+            <img data-src="images/roi-dial-high.png" alt="image of ROI dial set to high">
+          </figure>
+          <article>
+            <span>Research and Reports</span>
+            <h2>The Total Economic Impact Of the ETQ Reliance Platform</h2>
+            <p>ETQ commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study of the Reliance
+              Platform to examine the potential return on investment enterprises may realize by deploying the ETQ
+              Reliance platform. Forrester derived its conclusions in large part from information received in a series
+              of in-depth
+              interviews we conducted with executives and personnel at four customers, each of which had been using
+              ETQ’s Reliance platform between one and nine years. Examination of these clients shows significant
+              productivity and incremental revenue benefits.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix rr qm ind-cross">
+          <figure class="case-study">
+            <img data-src="images/Gartner_logo.png" alt="image of Gartner logo">
+          </figure>
+          <article>
+            <span>Research and Reports</span>
+            <h2>Quality Management, Strategy and Leadership Primer for 2020</h2>
+            <p>According to Gartner, disruptive technologies, rapidly-shifting economic conditions and expanding supply
+              bases are challenging traditional approaches to quality management, strategy and leadership.This new
+              Gartner research is particularly relevant in the current crisis and can serve as a template as you plan to
+              adapt. Shifting the focus from production into design and across the extended supply chain has allowed
+              companies to identify and respond to quality errors earlier in the product life cycle, saving time and
+              reducing cost of quality.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix rr em qm ind-cross">
+          <figure class="case-study">
+            <img data-src="images/verdantix-white-xparent-logo.png" alt="image of Verdantix logo">
+          </figure>
+          <article>
+            <span>Research and Reports</span>
+            <h2>EHS and Quality as a Strategic Focus</h2>
+            <p>EHS and Quality are increasingly managed under a single business function to gain significant process
+              efficiencies and improved incident prevention, according to recent research from Verdantix.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix rr qm ind-cross">
+          <figure>
+            <img data-src="images/woman-hardhat-laptop.jpg" alt="image of woman in hardhat using laptop">
+          </figure>
+          <article>
+            <span>Research and Reports</span>
+            <h2>Quality 4.0: The Quality Leader’s New Product Introduction Playbook</h2>
+            <p>Read this LNS Research report to learn how to achieve quality objectives and desired outcomes by
+              instilling a culture of quality.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix rr qm ind-cross">
+          <figure>
+            <img data-src="images/strategy-planning.jpg" alt="image of man indicating upward trend with arrow">
+          </figure>
+          <article>
+            <span>Research and Reports</span>
+            <h2>Quality 4.0: Get Educated, Get Involved, and Build a Successful Strategy</h2>
+            <p>Read this LNS Research report to learn how to build an effective Quality 4.0 strategy, focusing on
+              Strategic Objectives, Operational Excellence and Operational Architecture.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix rr qm ind-cross">
+          <figure>
+            <img data-src="images/arrows-graph-pointing-up.jpg" alt="image of arrows on graph pointing up">
+          </figure>
+          <article>
+            <span>Research and Reports</span>
+            <h2>The Total Economic Impact Of the ETQ Reliance Platform</h2>
+            <p>ETQ commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study of the Reliance
+              Platform to examine the potential return on investment enterprises may realize by deploying the ETQ
+              Reliance platform. This report reveals the cost savings and business benefits attributed to ETQ.</p>
+          </article>
+        </a>
+      </section>
+
+      <!-- END Research and Reports -->
+
+      <!-- Webinars -->
+
+      <section class="lazy-load--item mix wb qm qm ind-cross">
+
+          <figure>
+            <img data-src="images/survey-checkboxes.jpg" alt="image of survey checkboxes">
+          </figure>
+          <article>
+            <span>Quality Magazine Webinar</span>
+            <h2>State of the Profession Quality Report</h2>
+            <p><strong>Speaker:</strong> Grace Duffy, President, Management & Performance Systems</p>
+            <p>The survey identifies trends in employees’ compensation, work hours and job constraints; overall job
+              satisfaction; improvements to quality operations; and provide a demographic profile of industry
+              professionals. See if your experience in the quality field mirrors that of your colleagues.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm qm ind-cross">
+          <figure>
+            <img data-src="images/covid-19.png" alt="image of covid 19">
+          </figure>
+          <article>
+            <span>On Demand Webinar</span>
+            <h2>Quality Management in the Real World: Supplier Quality During Crisis
+            </h2>
+            <p><strong>Speakers:</strong> Nick Metrakos, Solutions Consultant, and David Isaacson, Senior Director,
+              Product Marketing, ETQ</p>
+            <p>The current crisis has created new levels of pressure on supply chain quality, whether it is rapidly
+              onboarding new suppliers, managing receiving and inspections remotely or just keeping up with the
+              accelerated pace of change. Join Nick Metrakos, Solutions Consultant at ETQ, an ISO 13485 and ISO 9001
+              Lead Auditor in this short, 30 minute session to learn how to manage these new challenges and how a well
+              implemented QMS may help.
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb sq ind-cross">
+          <figure>
+            <img data-src="images/records.png" alt="image of a factory assembly line">
+          </figure>
+          <article>
+            <span>Supplier Quality Webinar</span>
+            <h2>Quality Management in the Real World: Maintaining Supplier Records</h2>
+            <p>Some quality departments and organizations are happy to manage quality with manual, paper based systems.
+              Though this may be a fine process for now, how do they know if an automated solution might be better?
+              Listen to Nick Metrakos to learn if there is a better way for you and your organization to manage quality
+              and how to get started.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm qm ind-cross">
+          <figure>
+            <img data-src="images/question-marks.jpg" alt="image of question marks">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>Quality Digest Webinar: The Rise of Quality as a Strategic Initiative: 2020 Survey Results and Analysis
+            </h2>
+            <p><strong>Speakers:</strong> Nina McIntyre, Chief Marketing Officer, Morgan Palmer, Chief Technology
+              Officer, Nick Metrakos, Solutions Consultant and Michel Moravia, Product Manager of Quality, ETQ</p>
+            <p>ETQ engaged leading research firm, Salloway Associates, to survey 300 C-level executives, quality and IT
+              managers to learn key trends and common challenges with their quality initiatives.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm qm ind-cross">
+          <figure>
+            <img data-src="images/quality-stamp.jpg" alt="image of quality ink stamp">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>Quality Digest: Best Practices and Lessons Learned from a Quality Leader &amp; Auditor</h2>
+            <p><strong>Speakers:</strong> Nick Metrakos, Solutions Consultant, and
+              David Isaacson, Senior Director, Product Marketing, ETQ</p>
+            <p>Some quality departments and organizations are happy to manage quality with manual, paper based systems.
+              Though this may be a fine process for now, how do they know if an automated solution might be better?
+              Listen to Nick Metrakos to learn if there is a better way for you and your organization to manage quality
+              and how to get started.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm qm ind-cross">
+          <figure>
+            <img data-src="images/expert-quality.jpg" alt="image of notepads with quality checkmark">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>Quality Management: Real World Insight from an Expert</h2>
+            <p><strong>Speakers:</strong> Nick Metrakos, Solutions Consultant, and
+              David Isaacson, Senior Director, Product Marketing, ETQ</p>
+            <p>Do hidden costs and risks outweigh the costs of a QMS solution? Learn if there is a better way for you
+              and your organization to manage quality and how to get started.
+
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm qm ind-electronics">
+          <figure>
+            <img data-src="images/car-headlights.jpg" alt="image of car headlights">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>Quality at the Speed of Light: Learn How Global Leader Lumileds Drives Quality</h2>
+            <p><strong>Speakers:</strong> Sadiq Eshaq, Application Program Manager, Lumileds, and
+              Morgan Palmer, Chief Technology Officer, ETQ</p>
+            <p>Learn how Lumileds harmonized their global quality solutions and evolved from hundreds of siloed
+              applications to a set of globally integrated solutions that enable the global workforce to access, share
+              and analyze critical quality data that drives continuous quality improvement.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm fs qm ind-food-and-beverage">
+          <figure>
+            <img data-src="images/mars-food-safety.png" alt="image of food safety inspector">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>Mars Streamlines Global Quality and Safety Processes</h2>
+            <p><strong>Speakers:</strong> Jaime Boyes, Corporate R&D Processes and Systems Director, Mars and
+              Glen Fraser, Senior Director Solution Architects, ETQ</p>
+            <p>Mars Inc. focus on quality and food safety has helped build some of the world’s leading brands including
+              M&amp;Ms, Snickers, Wrigley’s, Pedigree, Uncle Bens and more. Learn how Mars consolidated disparate
+              paper-based and manual processes to develop standard global processes to streamline audits and key
+              processes.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm ind-cross">
+          <figure>
+            <img data-src="images/trust-quality-gears.jpg"
+              alt="image of service, efficiency, excellence, support gears">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>ETQ Reliance: Make Quality Your Competitive Advantage with a QMS Platform for Today's Quality
+              Requirements</h2>
+            <p><strong>Speakers:</strong> Morgan Palmer, Chief Technology Officer, and
+              Glen Fraser, Senior Director Solution Architects, ETQ</p>
+            <p>Learn how Quality Management System requirements have evolved to meet today's new era of increasingly
+              stringent quality demands. You'll learn the key drivers in quality and supply chain management today and
+              how those impact a QMS solution’s ability to deliver better business outcomes.
+
+            </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm ind-cross">
+          <figure>
+            <img data-src="images/female-analytics.jpg" alt="image of woman analyzing data">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>How Quality Analytics Takes QMS to the Next Level</h2>
+            <p><strong>Speakers:</strong> Arthur Lee, Vice President, Product Management, and
+              David Isaacson, Senior Director, Product Marketing, ETQ</p>
+            <p>Learn how easy-to-use analytics dashboards dedicated to quality management, like those in the new ETQ
+              Analytics, can expand the benefits of your QMS. See how you can easily analyze your quality data and
+              unlock operational insights, identify trends and make data-based decisions.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm ind-cross">
+          <figure>
+            <img data-src="images/quality-men.jpg" alt="image of men focusing on quality">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>Three Steps to Improving NPI Through a Focus on Quality</h2>
+            <p><strong>Speaker:</strong> Tom Comstock, Principal Analyst at LNS Research</p>
+            <p>New Product Introduction (NPI) is fundamental to most industrial organizations, yet 44% of new product
+              launches fail to meet all of their success criteria. LNS Research has defined a 3-step plan for improving
+              NPI by focusing on processes, suppliers and Quality 4.0. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm ind-cross">
+          <figure>
+            <img data-src="images/smiling-team.jpg" alt="image of team smiling and applauding">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>The Quality Leader’s Guide to New Product Introduction Success</h2>
+            <p><strong>Speaker:</strong> Dan Jacob, Principal Analyst and Research Director, LNS Research</p>
+            <p>Successful new product introduction (NPI) is crucial to achieve corporate goals. But today’s NPI success
+              rate is relatively low largely due to historical NPI challenges combined with market trends including
+              increased visibility to product performance and quality, global pressures, and increasingly complex
+              products. Quality leaders that see deep engagement in NPI as their holy grail may be surprised that the
+              levers for that engagement exist today.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb em qm ind-cross">
+          <figure>
+            <img data-src="images/eco-friendly.jpg" alt="image of eco-friendly graphic">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>How EHS and Quality are Now Better Together</h2>
+            <p><strong>Speakers:</strong> Morgan Palmer, Chief Technology Officer, and
+              Isabel Velasco, Industry Analyst, Verdantix</p>
+            <p>EHS and quality are increasingly managed under a single business function to gain significant process
+              efficiencies and improve incident prevention, according to recent research. Join industry experts from
+              Verdantix and ETQ to learn three key scenarios of efficient EHSQ integration.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb rc ind-medical-device-and-diagnostics">
+          <figure>
+            <img data-src="images/fda.jpg" alt="image of FDA on grass">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>How to Prepare for FDA Migration</h2>
+            <p><strong>Speakers:</strong> Morgan Palmer, Chief Technology Officer, and
+              Ujjal Chakravartty, Director of Global Quality Systems at Avanos Medical</p>
+            <p>The FDA is transitioning from the QSR regulation to ISO 13485:2016 for medical devices. In addition, the
+              Medical Device Single Audit Program has gained traction. A single audit system provides many benefits
+              including time and cost savings, less business disruption related to multiple regulatory audits and ease
+              of entry into multiple markets.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb rc ind-medical-device-and-diagnostics">
+          <figure>
+            <img data-src="images/compliance-pen-checkmarks.jpg" alt="image of checked checkboxes">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>How to Prepare for EU MDR 2020</h2>
+            <p><strong>Speakers:</strong> Michael Drues, Ph.D., Recognized Regulatory Expert, Vascular Sciences;
+              Maite Llácer, PhD, Director Quality Compliance International and Angeles Sanfrancisco, Manager Quality
+              Compliance International, Edwards Lifesciences; Kim Wakeman, Solutions Engineer, ETQ</p>
+            <p>In less than one year, the Medical Devices Regulation (MDR) will be fully implemented. Gain valuable
+              insight from industry experts and medical device manufacturers on how to be fully prepared for the Medical
+              Devices Regulation (MDR)</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb">
+          <figure>
+            <img data-src="images/mobile-app-quality.jpg"
+              alt="image of mobile app quality ratings: happy, neutral, sad">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>Quality Management in the Real World: Supplier Qualification</h2>
+            <p><strong>Speaker:</strong> Nick Metrakos, Solutions Consultant, ETQ</p>
+            <p>Is your company’s ability to scale and deal with supplier quality management hindered by your current
+              processes and solution? Join Nick Metrakos, Solutions Consultant at ETQ, an ISO 13485 and ISO 9001 Lead
+              Auditor to learn if there is a better way to conduct and follow-up on supplier audits using Reliance.</p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm ind-cross">
+          <figure>
+            <img data-src="images/calculate-profit.jpg" alt="image of coworkeres calculating profit at computer">
+          </figure>
+          <article>
+            <span>Webinar</span>
+            <h2>How to Transform Quality from a Cost Center to a Profit Center</h2>
+            <p><strong>Speakers:</strong> Michel Moravia, Product Manager, Quality, and
+              David Isaacson, Senior Director, Product Marketing, ETQ</p>
+            <p>Learn how quality can be viewed as a central strategic initiative that drives new product introduction
+              and design for manufacturing. Gain a better understanding of quality engineering principles in product
+              development, problem solving, kaizen and quality analytics. </p>
+          </article>
+        </a>
+      </section>
+
+      <section class="lazy-load--item mix wb qm sq ind-manufacturing-services">
+          <figure>
+            <img data-src="images/supply-chain.jpg" alt="image of factory conveyer belts">
+          </figure>
+          <article>
+            <span>Standing Room Only Presentation at ASQ World Conference 2019</span>
+            <h2>Supply Chain Quality in the Real World: Business Impacts & Challenges</h2>
+            <p><strong>Speakers:</strong> Morgan Palmer, Chief Technology Officer, and
+              Sara Hanks, Senior Manager of Data and Analytics, GE Transportation, a Wabtec Company</p>
+            <p>In an era when supply chains are growing longer and more complex, forward-thinking manufacturers are
+              investing time, energy and capital in better managing their supplier risks. Learn the challenges and
+              benefits of improving supply chain quality.</p>
+          </article>
+        </a>
+      </section>
+      <!-- END Webinars -->
+    </main>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mixitup/2.1.11/jquery.mixitup.js"></script>
+  <script src="js/scripts.js"></script>
+
+  <script>
+    dropDownPanel("Filter Resources by Topic, Type or Industry", "Close");
+  </script>
+
+</body>
+
+</html>

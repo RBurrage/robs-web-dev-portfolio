@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 52.51">
+  <defs>
+    <style>
+      .a, .b, .c {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .a {
+        stroke: #ce0058;
+      }
+
+      .a, .b {
+        stroke-linecap: round;
+      }
+
+      .b {
+        stroke: #aca39a;
+      }
+
+      .c {
+        stroke: rgb(65, 38, 59);
+      }
+
+      .d {
+        fill: #aca39a;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="a" d="M14.74,46.26a22.28,22.28,0,1,1,31.52,0"/>
+    <path class="b" d="M10,51a29,29,0,1,1,41,0"/>
+    <line class="b" x1="30.5" y1="31.41" x2="40.86" y2="21.06"/>
+    <g>
+      <line class="c" x1="30.5" y1="13.58" x2="30.5" y2="4.66"/>
+      <line class="c" x1="17.89" y1="18.8" x2="11.58" y2="12.5"/>
+      <line class="c" x1="12.67" y1="31.41" x2="3.75" y2="31.41"/>
+      <line class="c" x1="43.11" y1="18.8" x2="49.42" y2="12.5"/>
+      <line class="c" x1="48.33" y1="31.41" x2="57.25" y2="31.41"/>
+    </g>
+    <circle class="d" cx="30.5" cy="31.41" r="2.77"/>
+  </g>
+</svg>

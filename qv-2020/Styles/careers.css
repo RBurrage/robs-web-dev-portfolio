@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+.perks td {
+	font-size: 16px;
+}
+
+.perks img {
+	width: 60px;
+	margin-bottom: 10px;
+}
+
+.family img{
+	width: 200px;
+	border-radius: 50%;
+}
+
+.splash-family {
+	background-image:url(https://www.etq.com/careers/images/HR-Website-Collage.jpg);
+	border-bottom: 1pt solid #e5e5e5;
+}
+.splash-family p {
+	padding-bottom: 150px;
+}
+
+.job-alerts {
+background-color:#f4f4f4;
+border: 1pt solid #e5e5e5; 
+padding-bottom:10px; 
+padding-top: 10px;	
+}
+
+.positions-header {
+	border-bottom: 1px; 
+	border-bottom-style: solid; 
+	border-bottom-color:#878585
+}
+
+.positions-location {
+	text-align:right; font-size:12px; color:#828282
+}
+
+.positions {
+font-size:16px;
+}
+
+
+/*.imgWrap {
+  position: relative;
+  height: auto;
+  width: auto;
+}
+
+.imgDescription {
+  position: absolute;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #ffffff !important;
+  visibility: hidden;
+  opacity: 0;
+
+  /*remove comment if you want a gradual transition between states
+  -webkit-transition: visibility opacity 0.2s;
+  
+}
+
+
+.imgWrap:hover .imgDescription {
+  visibility: visible;
+  opacity: 1;
+}*/

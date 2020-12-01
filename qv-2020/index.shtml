@@ -1,0 +1,2324 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" class="no-js">
+
+<head>
+
+  <!-- Google Tag Manager: Placed by RB on 8/6/2019 -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NGXDD8Z');</script>
+  <!-- End Google Tag Manager -->
+
+  <title>ETQ Quality Vision 2020: Inspire Excellence</title>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="DESCRIPTION" content="The ETQ Spring Customer Conference">
+  <meta name="keywords"
+    content="The ETQ Spring Customer Conference, quality management system,quality management systems,what is quality management,qms software,quality management software,quality management system software,quality management solutions,enterprise quality management software">
+  <meta name="abstract"
+    content="Quality Management Software to help companies achieve compliance and streamline their processes.">
+  <meta name="Revisit-After" content="15 Days">
+
+  <link rel="stylesheet" type="text/css" media="all" href="../../styles/main.css">
+  <link rel="stylesheet" href="../../styles/fonts.css?v=2.0" TYPE="text/css">
+  <link rel="stylesheet" type="text/css" media="all" href="Styles/layout-overrides.css">
+
+  <script src="js/modernizr.js?v=4.0"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:900|Quicksand&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+<body>
+
+  <!-- Google Tag Manager (noscript): Placed by RB on 8/6/2019 -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGXDD8Z" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="container">
+    <header class="sticky">
+      <div class="row">
+        <div class="logo">
+          <a href="/"><img class="etq-logo" src="https://blog.etq.com/hs-fs/hubfs/eTQ_RubineRed_RGB_tag_h-01.png?width=303&name=eTQ_RubineRed_RGB_tag_h-01.png"
+              alt="etq logo"></a><br>
+        </div>
+        <nav id="main-nav-wrap">
+          <ul class="main-navigation">
+            <li class="current"><a class="smoothscroll" href="#home" title="Home">Home</a></li>
+            <li><a class="smoothscroll" href="#overview" title="Overview">Overview</a></li>
+            <li><a class="smoothscroll" href="#leadership-forum" title="Leadership Forum">Leadership Forum</a></li>
+            <li><a class="smoothscroll" href="#agenda" title="Agenda">Agenda</a></li>
+            <li><a class="smoothscroll" href="#pricing" title="Pricing">Pricing</a></li>
+            <!--<li><a class="smoothscroll" href="#speakers" title="Speakers">Speakers</a></li>-->
+            <li><a class="smoothscroll" href="#location" title="Location">Location</a></li>
+            <li><a class="smoothscroll" href="#faq" title="faq">FAQ</a></li>
+            <li><a href="http://www.cvent.com/d/xhqwwf/4W" target="_blank"><button class="navbutton" href="#regbutton"
+                  title="regbutton">Register Now</button></a></li>
+          </ul>
+        </nav>
+        <a class="menu-toggle" href="#"><span>Menu</span></a>
+      </div>
+    </header>
+
+    <section id="home" class="clear center">
+      <div class="container-row clear">
+        <div class="home-content full_width">
+          <div class="header-info">
+            <div>
+              <h1>ETQ Quality Vision 2020<br><span>Inspire Excellence</span></h1>
+              <h5 class="time">March 2&ndash;6</h5>
+              <h5 class="place">Hilton Miami Downtown</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div id="keynote-speaker-highlight">
+      <div class="photo"><img src="images/john-rossman-large.jpg"></div>
+      <div class="description">
+        <p class="white" style="font-size: 1.5em;margin-top: 0;line-height: 1.25em">Special Keynote Speaker, John
+          Rossman<br>
+          Think Like Amazon&mdash;Build A Culture of Innovation</p>
+        <h3 class="white">Vision 2020 keynote speaker <a href="#keynotePresentation">John Rossman</a> will reveal how to
+          build a culture of innovation leveraging operational excellence and quality.</h3>
+      </div>
+    </div>
+
+    <section id="vision-2020-sponsors" class="clear">
+      <div class="container-row clear sponsors">
+        <h4>Sponsors and Partners</h4>
+        <hr>
+        <div class="sponsor-logos">
+          <figure>
+            <div>
+              <a href="#acumen">
+                <img src="images/partner-logo-acumen-analytics.png" alt="Acumen Logo">
+              </a>
+            </div>
+          </figure>
+          <figure>
+            <div>
+              <a href="#aecom">
+                <img src="images/sponsors/aecom.jpg" alt="AECOM Logo">
+              </a>
+            </div>
+          </figure>
+          <figure>
+            <div>
+              <a href="#prenscia">
+                <img src="images/sponsors/prenscia.png" alt="Prenscia Logo">
+              </a>
+            </div>
+          </figure>
+          <figure>
+            <div>
+              <a href="#regscan">
+                <img src="images/partner-logo-regscan.png" alt="RegScan Logo">
+              </a>
+            </div>
+          </figure>
+          <figure>
+            <div>
+              <a href="#xovertime">
+                <img src="images/xovertime-logo.png" alt="X Overtime Logo">
+              </a>
+            </div>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <div id="acumen" class="modalDialog">
+      <div>
+        <a href="#close" title="Close" class="close">x</a>
+        <h2>Acumen Analytics</h2>
+        <p>Acumen Analytics, an ETQ partner, established in 2004 and based in Philadelphia, PA is an information
+          management and analytics consulting firm focused on helping clients leverage their data, technology and
+          organizational assets to create strategies and deliver solutions that drive business outcomes. While Acumen
+          Analytics' consultants have specific industry experience in life sciences and highly regulated industries,
+          their capabilities span across many industries and business functions, providing information management
+          strategy, data management and architecture, business intelligence and advanced analytics that measure
+          performance, identify opportunities, and forecast the future efficiently and more cost effectively. For more
+          information, visit <a href="http://www.acumen-analytics.com/" target="_blank">www.acumen-analytics.com</a>.
+        </p>
+      </div>
+    </div>
+
+    <div id="aecom" class="modalDialog">
+      <div>
+        <a href="#close" title="Close" class="close">x</a>
+        <h2>AECOM</h2>
+        <p> AECOM helps clients balance growth globally with resiliency, achieving compliance and reducing or
+          eliminating risks while protecting the natural environment. They fund research and development for new
+          technologies like drones, IOT, and virtual reality. AECOM assists companies with design, engineering,
+          construction management, EHS compliance, legacy remedial/restoration, health &amp; safety and sustainability
+          solutions/services.</h2>
+          <p>For more information, visit <a href="http://www.aecom.com" target="_blank">www.aecom.com</a>. </p>
+      </div>
+    </div>
+
+    <div id="regscan" class="modalDialog">
+      <div>
+        <a href="#close" title="Close" class="close">x</a>
+        <h2>RegScan</h2>
+        <p>RegScan is a Williamsport, PA based compliance management company that offers users the ability to access
+          global data and create custom legal registers and audit protocols for more than 140 jurisdictions around the
+          globe. With a dedicated staff of experts in three U.S. states and Washington D.C., and an ever-growing network
+          of in-country resources, RegScan can always be counted on as a trusted resource for up-to-date regulatory
+          information from every corner of the globe. Visit <a href="https://www.regscan.com/"
+            target="_blank">www.regscan.com</a> for more information. </p>
+      </div>
+    </div>
+
+    <div id="prenscia" class="modalDialog">
+      <div>
+        <a href="#close" title="Close" class="close">x</a>
+        <h2>HBM Prenscia</h2>
+        <p>HBM Prenscia is a global leader of innovative concepts and software solutions for improving reliability,
+          maintainability, safety, durability and performance. Our reliability engineering tools (ReliaSoft) encompass
+          all aspects of reliability engineering through all stages of product development, deployment and operation. We
+          offer a flexible and powerful set of tools to help you identify critical components (or failure modes) and
+          determine the most effective ways to improve system performance through design improvements and/or maintenance
+          planning.
+          For more information, visit <a href="https://www.hbmprenscia.com/" target="_blank">www.hbmprenscia.com</a>.
+        </p>
+      </div>
+    </div>
+
+    <div id="xovertime" class="modalDialog">
+      <div>
+        <a href="#close" title="Close" class="close">x</a>
+        <h2>xOverTime</h2>
+        <p>xOverTime delivers an Excel-enabled cloud database that helps business users collaborate and manage data to
+          drive business decisions. Its cloud-based SaaS solution empowers users to manage their Excel data over time
+          while adding security, collaboration and analysis tools, plus the ability to integrate the data with other
+          enterprise applications. ETQ leverages xOverTime to support complex environmental calculations and
+          region-specific regulatory reporting. xOverTime is well suited to supporting a company’s calculation and
+          roll-up of air, water and toxic emissions which can be integrated with ETQ’s Reliance platform capabilities of
+          compliance obligations, task management and workflow. Founded in 2011 and with headquarters in the San
+          Francisco Bay Area, xOverTime delivers its technology to businesses ranging from small professional businesses
+          to large Fortune 500 companies. For more information, visit <a href="https://www.xovertime.com/"
+            target="_blank">www.xovertime.com</a>.
+        </p>
+      </div>
+    </div>
+
+    <section id="overview" class="clear">
+      <div class="container-row clear">
+        <div class="overview-content">
+
+          <h2>Overview</h2>
+
+          <h4>Inspire Excellence</h4>
+
+          <p>ETQ Quality Vision is ETQ’s new spring customer conference, making its first annual appearance in sunny
+            Miami, Florida. ETQ Quality Vision 2020 is your opportunity to learn about the latest ETQ solutions and
+            innovations, connect with fellow ETQ customers from around the world and share experiences and best
+            practices. This spring’s conference will also focus on how to drive quality throughout your organization
+            &mdash; from suppliers to production, your customers and, ultimately, to your customers’ customer.
+            Together, we’ll advance the conversation around the business value of quality and share actionable insights
+            on how to inspire a culture of quality that will grow brand loyalty and accelerate revenue at your company.
+          </p>
+
+          <div class="two-col-layout">
+            <div>
+              <p>At the ETQ Quality Vision 2020 in Miami you will:</p>
+              <ul class="list">
+                <li>Expand your knowledge in hands-on sessions and training on ETQ solutions</li>
+                <li>Learn best practices from fellow quality champions</li>
+                <li>Build connections through networking and interactive discussions</li>
+                <li>Understand how quality can be a business differentiator</li>
+                <li>Schedule interactive one-on-one consultations with ETQ experts</li>
+                <li>Learn how to maximize the return on your investment in ETQ Reliance</li>
+              </ul>
+            </div>
+            <div class="quality-leadership-forum">
+              <h3>Highlights: </h3>
+              <ul class="list">
+                <li><strong>Quality Leadership Forum:</strong> A half day of networking, industry expert and quality
+                  leader sessions and discussion. Learn from other quality leaders, discuss key industry trends,
+                  and gain insights on executing a quality strategy. <a
+                    href="https://blog.etq.com/quality-leadership-forum" target="_blank">Learn more</a></li>
+                <li><strong>Innovation Awards:</strong> See how quality leaders innovate to address challenges. Are
+                  you an innovator? Share your story. <a href="etq-innovation-excellence-awards-application.docx">Apply
+                    for an Innovation Award</a> today. </li>
+                <li><strong>1:1 Sessions with ETQ Experts:</strong> Your specific questions answered. </li>
+                <li><strong>Knowledge Sharing:</strong> Learn from customers about their quality journey in areas such
+                  as supply chain, EHS&Q, and integrations. Further, hear from ETQers on how to get the most out of your
+                  Reliance system, product updates, and the roadmap.</li>
+              </ul>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="leadership-forum" class="clear" style="background: rgb(92, 5, 133); padding: 40px 0 50px">
+      <div class="agenda-content container-row clear">
+        <h2 style="color:white;text-align:left">The New Quality Leadership Forum</h2>
+        <div class="pricing-content">
+          <p class="white">New this year is the Quality Leadership Forum, a gathering of senior quality leaders and
+            executives who will network, share and learn from their peers and industry experts on a highly focused
+            agenda of business-changing topics. This year, we will drill down into two main areas: how to successfully
+            build a culture of quality and what role advanced analytical insights can play in creating not just great
+            quality, but sustainable business advantage.</p>
+          <p class="white">
+            This special session for senior executives takes place on Monday, March 2, the first day of the conference.
+          </p>
+          <a href="https://blog.etq.com/quality-leadership-forum" target="_blank" class="button register">Learn
+            More</button></a>
+        </div>
+      </div>
+    </section>
+
+    <section id="whyAttend" class="clear">
+      <div class="container-row clear">
+        <div class="overview-content">
+
+          <h4 class="white">Why Attend ETQ Quality Vision 2020?</h4>
+
+          <div class="why-para-and-vid">
+            <div>
+              <p class="white">This year's theme is “Inspire Excellence.” As quality professionals, you have the
+                capacity to inspire excellence in your organization through the delivery of products and services that
+                delight your customers – and even your customer’s customers! ETQ Quality Vision 2020 is the “force
+                multiplier” you need to serve as a catalyst for continuous improvement. By learning from fellow
+                customers, ETQ’s QMS/EHS innovators and industry thought leaders, you will enrich your knowledge of
+                quality and EHS best practices and critical trends and become an instrumental resource as your firm
+                pursues its journey to operational excellence.</p>
+            </div>
+            <!-- <div class="morgan-vid">
+            <script src="https://fast.wistia.com/embed/medias/jhic1l7ulg.jsonp" async></script>
+            <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+            <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+              <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+                <span
+                  class="wistia_embed wistia_async_jhic1l7ulg popover=true popoverAnimateThumbnail=true videoFoam=true"
+                  style="display:inline-block;height:95%;position:relative;width:95%">&nbsp;</span></div>
+            </div>
+          </div> -->
+          </div>
+
+          <div class="why-attend-container">
+            <div class="row">
+
+              <div class="column">
+                <h2 class="why-attend-title">Knowledge</h2>
+                <p>Sessions will span a variety of topics enabling you to learn new processes and applications
+                  within the ETQ platform and providing you with valuable information on implementing new technologies.
+                </p>
+              </div>
+
+              <div class="column">
+                <h2 class="why-attend-title">Interaction</h2>
+                <p>Learn from the real-world experiences of a wide range of organizations that use ETQ, including
+                  lessons
+                  learned, tips and tricks, and best practices.</p>
+              </div>
+
+              <div class="column">
+                <h2 class="why-attend-title">Leadership</h2>
+                <p>Learn how to be a quality leader no matter your role. Hear how customers have built a culture of
+                  quality. Meet industry thought leaders. Take a closer look at advanced quality analytics.</p>
+              </div>
+
+              <div class="column">
+                <h2 class="why-attend-title">Training</h2>
+                <p>Passport Training provides in-depth training on Reliance &mdash; from administration to mobile
+                  designer classes that
+                  will walk you through specific configuration methods, so you can get the most out of ETQ Reliance.</p>
+              </div>
+
+            </div>
+          </div>
+
+          <p class="white">Sign up today to gain practical experience to bring back to your organization and deliver
+            more value in your solution. This conference is worth over $8,500 in training and experience available for a
+            fraction of the cost! <em><sup>*</sup>See <a href="#pricing">pricing</a> information.</em></p>
+
+          <a href="http://www.cvent.com/d/xhqwwf/4W" target="_blank" class="button register">Register Now</a>
+        </div>
+      </div>
+  </div>
+  </section>
+
+  <section class="justification-bg clear">
+    <div class="container-row clear justification">
+      <div class="copy">
+        <h2>Get your manager on board!</h2>
+        <p class="justification-copy">Need help getting approval to attend? We've got you covered.</p>
+        <p class="justification-copy">Our justification letter highlights all the conference benefits and costs,
+          making
+          it clear why you should attend.</p>
+        <a href="2020-etq-spring-conference-justification-letter.docx" target="_blank" class="button register">Download
+          Now</a>
+      </div>
+
+      <div class="conf-vid">
+        <script src="https://fast.wistia.com/embed/medias/zbw7176ysq.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+          <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+            <div class="wistia_embed wistia_async_zbw7176ysq videoFoam=true"
+              style="height:100%;position:relative;width:100%">
+              <div class="wistia_swatch"
+                style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;">
+                <img src="https://fast.wistia.com/embed/medias/zbw7176ysq/swatch"
+                  style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true"
+                  onload="this.parentNode.style.opacity=1;" /></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="agenda" class="clear">
+    <div class="agenda-content container-row clear">
+      <h2>Agenda</h2>
+      <table class="product-strategy">
+        <tbody>
+          <tr>
+            <td colspan="2" class="date-header">
+              <p>Monday, March 2</p>
+            </td>
+          </tr>
+          <tr>
+            <td>8:00am &mdash; 6:00pm</td>
+            <td>Registration</td>
+          </tr>
+          <tr>
+            <th colspan="2">
+              <p>Quality Leadership Forum</p>
+              <p style="font-size: .8em;font-weight: normal;">Preliminary Agenda</p>
+            </th>
+          </tr>
+          <tr>
+            <td>12:00pm &mdash; 5:30pm</td>
+            <td><strong>Introducing the Quality Leadership Forum</strong><br>This half-day session is designed for
+              senior quality leaders and executives to meet and network on
+              topics ranging from Quality 4.0, how to drive a culture of quality, and strategies for operationalizing
+              insights from
+              quality analytics. The format will consist of short presentations and roundtable style discussions.
+              <p>
+                <span class="sub-agenda">12:00pm &mdash; 1:00pm</span><br>
+                <strong>Quality Leadership Forum Private Lunch</strong>
+              </p>
+              <p>
+                <span class="sub-agenda">1:00pm &mdash; 1:30pm</span><br>
+                <strong>Welcome and Introductions</strong>: ETQ CEO, Rob Gremley
+              </p>
+              <p>
+                <span class="sub-agenda">1:30pm &mdash; 2:00pm</span><br>
+                <a href="#daveRyeson">Dave Ryeson</a>, co-author of the study by BCG and ASQ, <em>Quality 4.0 Takes More
+                  Than Technology</em>,
+                will open the leadership forum with a review of key study findings, including the people and skills
+                required for Quality 4.0. Dave Ryeson is Partner and Associate Director at BCG topics in
+                Manufacturing / Industry 4.0.
+              </p>
+              <p>
+                <span class="sub-agenda">2:00pm &mdash; 2:30pm</span><br>
+                <strong>Quality 4.0 and Driving a Culture of Quality</strong>: <a href="#hongXu">Hong Xu</a>, VP
+                Quality, Kaiser Aluminum
+              </p>
+              <p>
+                <span class="sub-agenda">2:30pm &mdash; 3:00pm</span><br>
+                <strong>Quality 4.0 and Analytics</strong>: <a href="#mattLittlefield">Matt Littlefield
+                </a>, CEO, LNS Research
+              </p>
+              <p>
+                <span class="sub-agenda">3:00pm &mdash; 3:15pm</span><br>
+                Break
+              </p>
+              <p>
+                <span class="sub-agenda">3:15pm &mdash; 4:30pm</span><br>
+                <strong>Breakout 1:</strong> Quality 4.0 and Analytics<br>
+                <strong>Breakout 2:</strong> Quality 4.0 and Driving a Culture of Quality
+              </p>
+              <p>
+                <span class="sub-agenda">4:30pm &mdash; 5:30pm</span><br>
+                Learnings and Session Wrapup
+              </p>
+
+            </td>
+          </tr>
+          <tr>
+            <td>6:00pm &mdash; 8:00pm</td>
+            <td><strong>Opening Reception for ETQ Spring Conference</strong>: All Quality Leadership Forum attendees and
+              Product Strategy Session attendees and full conference attendees are invited to join the reception.</td>
+          </tr>
+          <tr>
+            <th colspan="2" class="category">
+              <p>Product Strategy Sessions </p>
+            </th>
+          </tr>
+          <tr>
+            <td colspan="2" class="date-header">
+              <p>Tuesday, March 3 &mdash; Strategy Session Day 1</p>
+              <p>Keynote general session presentation by ETQ’s CEO, Rob Gremley, CTO Morgan Palmer and CMO, Nina
+                McIntyre. Following the keynote presentation, you will hear the Innovation Award Finalists presentations
+                and you will be able to choose from 16 strategy sessions over the course of the two strategy days.
+              </p>
+              <p style="font-style:italic"><sup style="color: rgb(206, 0, 88)">*</sup>Conference sessions are subject to
+                change.</p>
+            </td>
+          </tr>
+          <tr>
+            <td>7:00am</td>
+            <td>Registration</td>
+          </tr>
+          <tr>
+            <td>7:30am &mdash; 8:30am</td>
+            <td>Breakfast and Registration</td>
+          </tr>
+          <tr>
+            <td>8:00am &mdash; 10:00am</td>
+            <td><strong><a href="#keynotePresentation">Welcome and Keynote Presentation:</a></strong> Rob Gremley, CEO;
+              Morgan Palmer, CTO; Nina McIntyre, CMO, and special keynote speaker, John Rossman, bestselling author of
+              <em>Think Like Amazon: 50 1/2 Ideas to Become a Digital Leader</em></td>
+          </tr>
+          <tr>
+            <td>10:00am &mdash; 10:30am</td>
+            <td>AM Break</td>
+          </tr>
+          <tr>
+            <td>10:30am &mdash; 12:00pm</td>
+            <td><strong>Innovation Award Finalist Customer Presentations</strong>: Each year ETQ recognizes customers
+              who have implemented ETQ Reliance in innovative ways to solve important problems. You will learn from the
+              three finalists as they present their innovative solutions, and see if you can implement those solutions
+              at your own organization. </td>
+          </tr>
+          <tr>
+            <td>12:00pm &mdash; 1:00pm</td>
+            <td><strong>Networking Lunch</strong></td>
+          </tr>
+          <tr>
+            <td>1:00pm &mdash; 2:00pm</td>
+            <td><strong><a href="#lnsSupplierQuality">LNS Panel on Supplier Quality</a></strong>: Join LNS Research
+              President and Principal Analyst, Matt Littlefield and Customer Panelists Lisa McCallister from Amway and
+              Ben Bollenbacher from Kimberly-Clark to discuss "Supplier Quality and Operational Excellence."</td>
+          </tr>
+          <tr>
+            <td>2:00pm &mdash; 3:00pm</td>
+            <td>
+              <!-- Product Strategy Session -->
+              <div><strong>Product Strategy Sessions</strong></div>
+
+              <div class="sessions-container">
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#realWorldQualityJourneyPanel">Real World Quality Journey Panel: </a> </strong>
+                    Hear leading organizations share where they
+                    are in their quality journey. You will learn how they measure and evaluate success and how they plan
+                    to move
+                    forward. One of the highest-rated sessions at the fall conference. <br><br>
+                    <strong>Moderators</strong>: Morgan Palmer and Danna Schum, ETQ<br>
+                    <strong>Panelist:</strong> Shirly D'Silva, DHL<br>
+                    <strong>Panelist:</strong> Kathy Lease, Tecomet<br>
+                    <strong>Panelist:</strong> Yvan Brissaut, Safran</p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#tipsTricks">Tips &amp; Tricks:</a> </strong>Learn from the best
+                    of ETQ. Gain insight that will help you get the maximum value out of ETQ Reliance.
+                    <br><br>
+                    <strong>Speaker:</strong> Bhavin Virani, ETQ</p>
+                </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>3:00pm &mdash; 3:15pm</td>
+            <td>PM Break</td>
+          </tr>
+          <tr>
+            <td>3:15pm &mdash; 4:15pm</td>
+            <td><strong>Birds of a Feather Discussion Groups</strong>: This is a great chance to network with your peers
+              and
+              discuss pre-selected industry topics or challenges you face at your company.</td>
+          </tr>
+          <tr>
+            <td>4:15pm &mdash; 5:15pm</td>
+            <td>
+              <!-- Product Strategy Session -->
+              <div><strong>Product Strategy Sessions</strong></div>
+
+              <div class="sessions-container">
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#analytics">Analytics:</a> </strong> If “data is the new oil” then ETQ is
+                    wildcatting the quality data patch! Come learn all about ETQ Insights, the Advanced Analytics
+                    solution, and how it can help your organization make better quality decisions.
+                    <br><br>
+                    <strong>Speaker:</strong> Arthur Lee, ETQ</p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#academyPanel">Academy Panel:</a> </strong>
+                    ETQ Academy is an ever-growing store of training and information for customers available
+                    24/7 in formats from micro-learnings to major certification programs. Find out what’s new and what
+                    the future holds for ETQ Academy. Always a crowd pleaser at ETQ events.
+                    <br><br>
+                    <strong>Moderator:</strong> Angie Maze, ETQ<br>
+                    <strong>Panelist:</strong> Shirly D'Silva, DHL<br>
+                    <strong>Panelist:</strong> Tammi Meisel, Coca-Cola<br>
+                    <strong>Panelist:</strong> Mary Harling, Coca-Cola</p>
+                </div>
+
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>5:15pm &mdash; 6:30pm</td>
+            <td>Break and Transport to Frost Museum
+            </td>
+          </tr>
+          <tr>
+            <td>6:30pm &mdash; 9:00pm</td>
+            <td><strong>Conference Reception and Celebration at <a href="https://www.frostscience.org/"
+                  target="_blank">Frost
+                  Museum</a>.</strong> Join your peers for a fantastic reception at Miami's award-winning new Frost
+              Museum of Science where we
+              will eat, drink, network and unveil the winners of the 2020 ETQ Innovation Awards.</td>
+          </tr>
+          <tr>
+            <td colspan="2" class="date-header">
+              <p>Wednesday, March 4 &mdash; Strategy Session Day 2</p>
+              <p style="font-style:italic"><sup style="color: rgb(206, 0, 88)">*</sup>Conference sessions are subject to
+                change.</p>
+            </td>
+          </tr>
+          <tr>
+            <td>7:00am</td>
+            <td>Registration</td>
+          </tr>
+          <tr>
+            <td>7:30am &mdash; 8:30am</td>
+            <td>Breakfast</td>
+          </tr>
+          <tr>
+            <td>8:30am &mdash; 9:30am</td>
+            <td><strong>Quality Journey for our Customers' Customer: </strong> Ujjal Chakravartty, Director of Global
+              Quality Systems at Avanos Medical, will share how Avanos drives a culture of quality, effective quality
+              processes and quality insights &mdash; by keeping a consistent focus on their ultimate customer</td>
+          </tr>
+          <tr>
+            <td>9:30am &mdash; 10:30am</td>
+            <td><strong>Product Roadmap Presentation:</strong> Hear ETQ Chief Technology Officer, Morgan Palmer, share
+              ETQ product plans. This session will include the ETQ view of the market and key trends, key areas of
+              investment, and planned release dates for future products and services. </td>
+          </tr>
+          <tr>
+            <td>10:30am &mdash; 11:00am</td>
+            <td>AM Break</td>
+          </tr>
+          <tr>
+            <td>11:00am &mdash; 12:00pm</td>
+            <td>
+              <!-- Product Strategy Session -->
+              <div><strong>Product Strategy Sessions</strong></div>
+              <div class="sessions-container">
+
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#learnFromProsPanel">Learn from the Pros Panel:</a></strong> This is your
+                    opportunity to learn from your fellow QMS “Super Users” who have pushed ETQ Reliance to its fullest
+                    potential, and beyond. Get your questions answered!
+                    <br><br>
+                    <strong>Moderator:</strong> Parker Chase-Corwin, ETQ<br>
+                    <strong>Panelist: </strong> Steven Bergeron, Cree<br>
+                    <strong>Panelist: </strong>Alex Rodriguez, Kimberly-Clark
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#roiOfQuality">ROI of Quality:</a> </strong>Learn how to measure the value of your
+                    quality program to your business and communicate that value to business leaders in your
+                    organization.
+                    <br><br>
+                    <strong>Speaker:</strong> David Isaacson, ETQ<br>
+                    <strong>Panelist:</strong> Adam Ryley, Ingersoll Rand<br>
+                    <strong>Panelist:</strong> Ben Bollenbacher, Kimberly-Clark
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#productUpdateTraining">Product Update:</a>
+                    </strong>In this session, you will hear about the new capabilities and enhancements in the new ETQ
+                    Reliance Training Management application. Further, we will discuss the new Release Management
+                    process,
+                    along with the new capabilities and services available to support you.
+                    <br><br>
+                    <strong>Speakers:</strong> Arthur Lee and Bhavin Virani, ETQ
+                  </p>
+                </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>12:00pm &mdash; 1:00pm</td>
+            <td><strong>Networking Lunch</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00pm &mdash; 2:00pm</td>
+            <td>
+
+              <!-- Product Strategy Session -->
+              <div><strong>Product Strategy Sessions</strong></div>
+
+              <div class="sessions-container">
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#futureQualityEHSQ">Future of Quality and EHSQ Panel:</a>
+                    </strong>Hear a panel of your peers lead an interactive look into the future of quality and the
+                    convergence of QMS and EHS systems to create an integrated platform to drive continuous improvement
+                    in your company.
+                    <br><br>
+                    <strong>Moderator:</strong> Morgan Palmer, ETQ<br>
+                    <strong>Panelist:</strong> Dustin Lammers, SH&amp;E<br>
+                    <strong>Panelist: </strong> Stephanie Taylor, AECOM
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#planQualityJourney">Plan your Quality Journey:</a>
+                    </strong>Hear what capabilities can help you become more effective, whether you have been using a
+                    QMS for years or are just starting on your quality journey.
+                    <br><br>
+                    <strong>Speaker:</strong> Glen Fraser, ETQ
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#productUpdateTraining">Product Update:</a>
+                    </strong>In this session, you will hear about the new capabilities and enhancements in the new ETQ
+                    Reliance Training Management application. Further, we will discuss the new Release Management
+                    process,
+                    along with the new capabilities and services available to support you.
+                    <br><br>
+                    <strong>Speakers:</strong> Arthur Lee and Bhavin Virani, ETQ
+                  </p>
+                </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>2:00pm &mdash; 2:30pm</td>
+            <td>PM Break</td>
+          </tr>
+          <tr>
+            <td>2:30pm &mdash; 3:30pm</td>
+            <td>
+
+              <!-- Product Strategy Session -->
+              <div><strong>Product Strategy Sessions</strong></div>
+
+              <div class="sessions-container">
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#validationMedDevices">Validation for Life Sciences/Med Devices:</a>
+                    </strong> Validation is a critical and sometimes complicated topic. ETQ’s “Validation
+                    Valedictorian,” Alex Alain will de-mystify the Validation process and provide actionable advice and
+                    tools to make your Validation project as simple as possible.
+                    <br><br>
+                    <strong>Speaker:</strong> Alex Alain, ETQ
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#newProdIntroBestPractices">New Product Introduction Best Practices:</a>
+                    </strong>New product introduction (NPI) ensures market relevance and is often the key to market leadership. Come learn about leveraging ETQ’s <em>Quality by Design</em>, a strategic, innovative application that will help you improve your new product introductions, starting with step one of the product and service design process.
+                    <br><br>
+                    <strong>Speaker:</strong> Michel Moravia, ETQ<br>
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#integrationsPanel">Integrations Panel</a></strong>
+                    As customers increasingly depend on ETQ Reliance, integration with other key business systems
+                    becomes critical. You will learn a practical approach to achieving simple and complex integrations
+                    with other enterprise software systems such as ERP, PLM, MES and LIM.
+                    <br><br>
+                    <strong>Moderators:</strong> Abhishek Semwal and Osama Solieman, ETQ<br>
+                    <strong>Panelist:</strong> Adam Ryley, Ingersoll Rand
+                </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>3:45pm &mdash; 4:45pm</td>
+            <td>
+
+              <!-- Product Strategy Session -->
+              <div><strong>Product Strategy Sessions</strong></div>
+
+              <div class="sessions-container">
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#gettingStartedSupplierQuality">Getting Started with Supplier Quality:</a></strong>
+                    A well-planned and proactive supplier quality
+                    program is essential to your product quality, as well as your customers' experiences, brand loyalty,
+                    and financial performance. Get
+                    started on your goals to improve your supplier quality in this session.
+                    <br><br>
+                    <strong>Speakers:</strong> David Isaacson and Glen Fraser, ETQ
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#relianceMobile">Reliance Mobile:</a></strong>
+                    Mobility has come to the QMS and EHS markets and ETQ Reliance is at the forefront of providing
+                    quality and EHS management beyond the assembly line and outside of the plant walls. Learn how to
+                    take advantage of the Reliance industry-leading mobile solution in this hands-on session.
+                    <br><br>
+                    <strong>Speaker:</strong> Sam Maxim, ETQ<br>
+                  </p>
+                </div>
+                <div class="agenda-detail">
+                  <p>
+                    <strong><a href="#tipsTricks">Tips &amp; Tricks:</a></strong>
+                    Learn from the best of ETQ. Gain insight that will help you get the maximum value out of ETQ
+                    Reliance.
+                    <br><br>
+                    <strong>Speaker:</strong> Bhavin Virani, ETQ <br>
+                </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>4:45pm &mdash; 5:45pm</td>
+            <td>Wrap-Up Discussion</td>
+          </tr>
+          <tr>
+            <td>6:30pm &mdash; 8:00pm</td>
+            <td>Reception</td>
+          </tr>
+      </table>
+
+      <hr>
+
+      <table class="training-agenda">
+        <tr>
+          <th colspan="2" class="category">
+            <p>ETQ Passport Training</p>
+          </th>
+        </tr>
+        <tr class="agenda-intro-copy">
+          <td colspan="2">
+            <p>As part of Quality Vision 2020, the ETQ Reliance Passport Training will be held on Thursday and Friday,
+              where you can participate in advanced training on ETQ Reliance. This training includes administrator
+              training, configurations and advanced features for those looking to further their Reliance knowledge.
+              Watch a brief <a href="https://etq.wistia.com/medias/5lhz7d3ptk" target="_blank">training sessions
+                overview video</a> to learn more about your training options. You can also register for only the
+              Passport Training. </p>
+          </td>
+        </tr>
+        <tr class="class-descriptions">
+          <td colspan="2">
+
+            <!-- Class Description Dropdown -->
+            <div class="toggle-trigger"><strong>Class Levels: Administration (hands-on), Designer, ETQScript,
+                Advanced/Expert &amp; Mobile Designer (New)</strong> <span class="expand-symbol"></span>
+            </div>
+            <div class="agenda-detail">
+              <div>
+
+                <div class="main">
+                  <input id="tab1" type="radio" name="tabs" checked>
+                  <label for="tab1">Administration</label>
+
+                  <input id="tab2" type="radio" name="tabs">
+                  <label for="tab2">Designer</label>
+
+                  <input id="tab3" type="radio" name="tabs">
+                  <label for="tab3">ETQScript</label>
+
+                  <input id="tab4" type="radio" name="tabs">
+                  <label for="tab4">Advanced/Expert</label>
+
+                  <input id="tab5" type="radio" name="tabs">
+                  <label for="tab5">Mobile Designer</label>
+
+                  <section id="content1">
+                    <p><strong>ETQ Reliance Administration (Named-Caller) Hands-On </strong></p>
+
+                    <p>The Administration (Named-Caller) course provides a hands-on overview of day-to-day
+                      administration activities of ETQ Reliance. Exercises will cover how to best utilize the
+                      Administration Center to manage users, groups, and security. Content will also cover how best to
+                      work with ETQ Technical Support via the ETQ Help Desk and common administrative tasks such as
+                      promotions, reviewing logs, etc. </p>
+                    <p><strong>Prerequisites</strong></p>
+
+                    <p>Successful completion of the following courses in ETQ Academy:</p>
+
+                    <ul class="list">
+                      <li>ETQ Reliance Administrator Certification Training 2019 (~4hrs)</li>
+                    </ul>
+                    <p><strong>Who should take this course?</strong></p>
+
+                    <ul class="list">
+                      <li>Reliance Administrators / Named-Callers who would like to understand how to efficiently work
+                        with ETQ Technical Support</li>
+                      <li>Reliance Administrators / Named-Callers responsible for the day-to-day administration and
+                        support of their Reliance instance</li>
+                    </ul>
+                  </section>
+
+                  <section id="content2">
+                    <p><strong>ETQ Reliance Designer – Designing and Building Applications </strong></p>
+
+                    <p>The Introduction to ETQ Reliance Designer course provides a comprehensive and hands-on overview
+                      of configuration utilizing the Reliance Designer. Exercises will cover how to build forms,
+                      workflows, and views in ETQ Reliance as well as how best to utilize the Administration Center to
+                      develop and modify basic documents and processes.</p>
+
+                    <p><strong>Prerequisites</strong></p>
+
+                    <p>Successful completion of the following courses in ETQ Academy:</p>
+                    <ul class="list">
+                      <li>ETQ Reliance Administrator Certification Training 2019 (~4hrs)</li>
+                      <li>ETQ Reliance Basic Designer Certification Training 2019 (~6hrs)</li>
+                    </ul>
+                    <p><strong>Who should take this course?</strong></p>
+
+                    <ul class="list">
+                      <li>Reliance Administrators who would like to better understand how the back-end of their Reliance
+                        system functions</li>
+                      <li>Beginning Reliance Designers who would like an opportunity to have a guided experience in
+                        building and modifying forms, workflows, and views</li>
+                      <li>Named Callers who need a better understanding of system design elements to be able to better
+                        troubleshoot issues or work with the ETQ Help Desk</li>
+                    </ul>
+                  </section>
+
+                  <section id="content3">
+                    <p><strong>ETQScript – Configuring Advanced Business Logic in ETQ Reliance</strong></p>
+                    <p>The ETQScript course will cover hands-on ETQ Scripting exercises to help customers configure more
+                      complex business requirements. The exercises will specifically focus on using ETQScript to
+                      configure a module to apply commonly requested business logic.</p>
+                    <p><strong>Prerequisites</strong></p>
+
+                    <p>Experience with programming languages (e.g. Python, Java, etc) strongly recommended</p>
+                    <p>Successful completion of the following courses in ETQ Academy:</p>
+                    <ul class="list">
+                      <li>ETQ Reliance Basic Designer Certification Training 2019 (~4hrs)</li>
+                      <li>ETQ Reliance Administrator Certification Training 2019 (~6hrs)</li>
+                      <li>ETQ Reliance Intermediate Designer Certification Training 2019 (~4hrs)</li>
+                    </ul>
+                    <p><strong>Who should take this course?</strong></p>
+
+                    <ul class="list">
+                      <li>Proficient Reliance Designers who would like an opportunity to have hands-on experience in
+                        writing and modifying ETQScript to meet business needs</li>
+                      <li>Named Callers/Administrators who need a better understanding of how to troubleshoot and update
+                        ETQScript logic</li>
+                    </ul>
+                  </section>
+
+                  <section id="content4">
+                    <p><strong>Advanced/Expert ETQ Reliance Implementation Use Cases and Case Studies</strong></p>
+                    <p>An interactive session covering multiple business cases requiring advanced ETQ configuration and
+                      scripting skills. The session covers best practices around scripting and explains a step by step
+                      approach in achieving some highly complex business requirements using ETQ Reliance. Solutions sets
+                      cover the entire gamut of ETQ’s advanced solution offerings, such as real-time integrations for
+                      just-in-time delivery, advanced scripting to automate compliance and quality assurance and
+                      automated problem detection to enable a pro-active approach to problem solving. The purpose of the
+                      session is to learn how to maximize Reliance to solve the trickiest and most complex business
+                      requirements.</p>
+                    <p><strong>Prerequisites</strong></p>
+
+                    <p>Successful completion of the following courses in ETQ Academy:</p>
+                    <ul class="list">
+                      <li>ETQ Reliance Basic Designer Certification Training 2019 (~4hrs)</li>
+                      <li>ETQ Reliance Administrator Certification Training 2019 (~6hrs)</li>
+                      <li>ETQ Reliance Intermediate Designer Certification Training 2019 (~4hrs)</li>
+                    </ul>
+                    <p>Minimum 2 years experience in managing and configuring ETQ Reliance applications</p>
+                    <p><strong>Who should take this course?</strong></p>
+
+                    <ul class="list">
+                      <li>Advanced Reliance Administrators and Designers who have advanced knowledge of ETQ Reliance and
+                        related technical knowledge in databases, programming, and enterprise integration
+                      </li>
+                    </ul>
+                  </section>
+
+                  <section id="content5">
+                    <p><strong>Introduction to ETQ Mobile Designer: NEW</strong></p>
+                    <p>The Mobile Designer course provides a comprehensive and hands-on overview of configuration
+                      utilizing the Reliance Mobile Designer. Exercises will cover how to build mobile forms, workflows,
+                      and views for already configured processes in ETQ Reliance.</p>
+                    <p><strong>Prerequisites</strong></p>
+
+                    <p>Successful completion of the following courses in ETQ Academy:</p>
+                    <ul class="list">
+                      <li>ETQ Reliance Administrator Certification Training 2019 (~4hrs)</li>
+                      <li>ETQ Reliance Basic Designer Certification Training 2019 (~6hrs)
+                      </li>
+                    </ul>
+                    <p><strong>Who should take this course?</strong></p>
+
+                    <ul class="list">
+                      <li>Reliance Designers interested in deploying mobile functionality for their Reliance
+                        implementation
+                      </li>
+                    </ul>
+                  </section>
+
+                </div>
+
+              </div>
+            </div>
+            <!-- End Class Description Dropdown-->
+
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="date-header">
+            <p>Thursday, March 5</p>
+          </td>
+        </tr>
+        <tr>
+          <td>7:30am &mdash; 8:30am</td>
+          <td>Breakfast and Registration</td>
+        </tr>
+        <tr>
+          <td>8:30am &mdash; 11:45 am</td>
+          <td>Training Session</td>
+        </tr>
+        <tr>
+          <td>12:00pm &mdash; 1:00pm</td>
+          <td><strong>Networking Lunch</strong>
+          </td>
+        </tr>
+        <tr>
+          <td>1:00pm &mdash; 5:00pm</td>
+          <td>Training Session</td>
+        </tr>
+        <tr>
+          <td>5:00pm &mdash; 9:00pm</td>
+          <td>Free Night</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="date-header">
+            <p>Friday, March 6</p>
+          </td>
+        </tr>
+        <tr>
+          <td>7:30am &mdash; 8:30am</td>
+          <td>Breakfast and Registration</td>
+        </tr>
+        <tr>
+          <td>8:30am &mdash; 11:45 am</td>
+          <td>Training Session</td>
+        </tr>
+        <tr>
+          <td>12:00pm &mdash; 1:00pm</td>
+          <td><strong>Networking Lunch</strong>
+          </td>
+        </tr>
+        <tr>
+          <td>1:00pm &mdash; 5:00pm</td>
+          <td>Training Session</td>
+        </tr>
+        <tr>
+          <td>5:00pm</td>
+          <td>Conference Ends</td>
+        </tr>
+        </tbody>
+      </table>
+
+      <hr>
+    </div>
+  </section>
+  </div>
+
+  <section id="pricing" class="clear">
+    <div class="pricing-content container-row clear">
+      <h2>Pricing</h2>
+
+      <div class="pricing-content">
+        <h4 class="white">Conference Passes<sup>*</sup></h4>
+        <p class="white">The 2020 ETQ spring customer conference is a 5-day event where customers gather to learn about
+          the most
+          recent and upcoming ETQ products and services. It is also an opportunity to interact with fellow ETQ users
+          from around the world and share experiences and best practices.</p>
+
+        <!-- Price Table -->
+
+        <div class="price-table price-table--5cols price-table--collapse">
+          <div class="price-table-row price-table-row--head">
+            <div class="price-table-cell category-cell column-heading first">Registration</div>
+            <div class="price-table-cell access-link-cell column-heading">Regular<br>Jan 18&mdash;Feb 20</div>
+            <!--<div class="price-table-cell pricing-cell column-heading">Last-Minute<br></div>-->
+            <div class="price-table-cell pricing-cell column-heading">On-site<br>Feb 21&mdash;Mar 2</div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Quality Leadership Forum
+                  <br><em>Monday 12:00-5:00 including lunch and opening reception</em></span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content">$695</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content">$795</div>
+            </div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Quality Leadership Forum
+                  and
+                  Strategy Sessions
+                  <br><em>Monday-Wednesday including lunch and opening reception</em></span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content">$1695</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content">$1895</div>
+            </div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Strategy
+                  Sessions
+                  <br><em>Tuesday-Wednesday including opening reception on Monday night</em></span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$1895</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content">$1595</div>
+            </div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Full Conference Program
+                  <br><em>Strategy &amp; Training, Tuesday-Friday including opening reception on Monday
+                    night</em></span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content">$2195</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$795</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content">$2395</div>
+            </div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Training Only
+                  <br><em>Thursday-Friday</em></span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content">$1495</div>
+            </div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Leadership Forum and Full
+                  Conference
+                  <br><em>Monday-Friday</em></span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content">$2395</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content">$2595</div>
+            </div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Partner Sponsors
+                </span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content"><br>Please inquire.</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content"><br>Please inquire.</div>
+            </div>
+          </div>
+
+          <div class="price-table-row">
+            <div class="price-table-cell category-cell">
+              <div class="price-table-cell--heading first">Registration</div>
+              <div class="price-table-cell--content date-content"><span class="webinar-date">Spouse Rates
+                </span></div>
+            </div>
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Regular<br>Jan 18&mdash;Feb 20</div>
+              <div class="price-table-cell--content pdf-content"><br>Please inquire.</div>
+            </div>
+            <!-- <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">Last-minute</div>
+              <div class="price-table-cell--content pdf-content">$1295</div>
+            </div> -->
+            <div class="price-table-cell price-table-cell--foot pricing-cell">
+              <div class="price-table-cell--heading">On-site</div>
+              <div class="price-table-cell--content pdf-content"><br>Please inquire.</div>
+            </div>
+          </div>
+          <!-- END Price Table -->
+
+        </div>
+        <p class="white">
+          <em><sup>*</sup> Above pricing does not include hotel room.</em><br>
+          <em><sup>*</sup> Please inquire about group discounts for more than 5 attendees</em>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="location" class="clear">
+    <div class="location-content container-row clear">
+      <h2>Location</h2>
+      <div class="location-wrap">
+        <div class="hotel-pic">
+          <div class="address">
+            <p>Hilton Miami Downtown Hotel<br>
+              1601 Biscayne Blvd, Miami, FL 33132<br>
+              <a href="tel:305-374-0000">305.374.0000</a>
+            </p>
+          </div>
+        </div>
+        <div class="hotel-copy">
+          <div class="description">
+            <p>Located in downtown Miami, minutes from South Beach, Port of Miami, Wynwood Arts District, and Design
+              District
+              of Miami, the Hilton Miami Downtown is a first-class venue with stunning panoramic views of Biscayne Bay,
+              sophisticated rooms and suites and is only 15 minutes from Miami International Airport (MIA).</p>
+            <ul class="list">
+              <li>$249/night for pre-and post conference (February 29—March 7)</li>
+              <li>Outdoor pool terrace and bar on the 7th floor with stunning sunset and skyline views</li>
+              <li>Next to complimentary Metro Mover light rail system and courtesy local trolly to Downtown Miami</li>
+              <li>Minutes to American Airlines Arena and Adrienne Arsht Center for Performing Arts</li>
+              <li>45,000 sq ft of meeting, convention and function space</li>
+            </ul><br>
+             <h3>How to Book Your Room</h3>
+             <p>The Miami Hilton Downtown online booking via our website is now closed, however rooms are still available. Anyone making reservations under ETQ can email the hotel directly at <a href="mailto:MIADT_RES@hilton.com">MIADT_RES@hilton.com</a> to check on availability. Or give them a call at <a href="tel:3053740000">305-374-0000</a>, and mention the ETQ room rate of $249/night, as there may still be availability.
+            </p>
+          </div>
+        </div>
+      </div>
+  </section>
+
+  <div class="callout">
+    <div id="customer-testimonials" class="clear center">
+      <ul class="bxslider">
+        <li>
+          <blockquote>Overall conference was very informative and am happy to have attended it.</blockquote>
+        </li>
+        <li>
+          <blockquote>This was my first time attending and it was well worth my time.</blockquote>
+        </li>
+        <li>
+          <blockquote>Loved the receptions and made great contacts! Very nicely done!</blockquote>
+        </li>
+        <li>
+          <blockquote>Training was excellent, mainly because we built a useful module from scratch and still had time to
+            learn tips and tricks. My instructors made the training.</blockquote>
+        </li>
+        <li>
+          <blockquote>I learned about the product and how other customers are using it.</blockquote>
+        </li>
+        <li>
+          <blockquote>Thank you for all the organization. Very well run!</blockquote>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <section id="faq" class="clear">
+    <div class="faq-content container-row clear">
+      <h2 style="color: rgb(92, 5, 133)">FAQs</h2>
+
+      <div class="container">
+        <ul class="acc">
+          <li>
+            <button class="ctrl">
+              <span class="question">What is the ETQ Quality Vision 2020 customer conference?</span>
+            </button>
+            <div class="panel">
+              <p>ETQ Quality Vision is the new name for the ETQ annual customer conference. This conference provides an
+                opportunity to learn from your quality peers and ETQ experts about the latest innovations, solutions,
+                trends and issues in quality, as well as enjoy hands-on training to help you get the most out of your
+                ETQ Reliance solution. The conference will consist of a Quality Leadership Forum, opening reception, two
+                days of product update and customer sessions and two days of intensive training on Reliance.
+              </p>
+            </div>
+          </li>
+
+          <div id="learnInnovationAwards"></div>
+
+          <li>
+            <button class="ctrl">
+              <span class="question">How is the Quality Vision 2020 customer conference different from the recent fall
+                Product Strategy &amp; Training Conference?</span>
+            </button>
+            <div class="panel">
+              <p>ETQ customers requested that we move the conference to a spring schedule. ETQ Quality Vision 2020 is
+                now the traditional ETQ customer conference with the new Quality Leadership Forum
+                on the afternoon of the first day, two full days of product strategy sessions, The Customer Innovation
+                Awards, and two days of training. The fall 2019 Product Strategy &amp; Training Conference was a shorter
+                conference for customers to facilitate the adjustment to a spring schedule. It included one day of
+                product strategy sessions and two days of training sessions. Following our March 2020 conference, the
+                next ETQ customer conference will be held in spring 2021.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <button class="ctrl">
+              <span class="question">What are the Innovation Awards? What is the application process?</span>
+            </button>
+            <div class="panel">
+              <p>The ETQ Innovation Excellence Award Program recognizes ETQ customers who have implemented ETQ Reliance
+                and achieved excellent and innovative outcomes, resulting in a significant impact on their business.</p>
+
+              <p>If your organization has created an innovative solution to manage and measure quality, EHS or
+                compliance with ETQ, we want to hear about it. There is no fee to enter. Awards consist of 1st, 2nd, and
+                3rd place finishers with recognition at ETQ Quality Vision 2020 in March 2020. The top 3 finishers will
+                have an opportunity to present their solution at this year’s conference. The 1st place winner will
+                receive a free pass for 2 people to attend the 2-day strategy portion of ETQ Quality Vision 2021. Our
+                2nd and 3rd place finishers will also receive fabulous awards, as noted in the Award Program
+                Application.</p>
+
+              <p>The Innovation Award application process is now open on this conference website. The application will
+                be due on Friday, January 10th. If you have any questions, please <a
+                  href="mailto:hmascott@etq.com">contact us</a>.</p>
+            </div>
+          </li>
+
+
+          <li>
+            <button class="ctrl">
+              <span class="question">What is the charge for Quality Vision 2020?</span>
+            </button>
+            <div class="panel">
+              <p>The are two remaining levels of pricing are Regular and On-site. Please check the <a
+                  href="#pricing">pricing
+                  matrix</a> for details.</p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">Who attends Quality Vision 2020?</span>
+            </button>
+            <div class="panel">
+              <p>Attendees span multiple functions including Quality, Operations, and IT leaders. ETQ’s customers span
+                many industries, which are also broadly represented.</p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">Is there a dress code?</span>
+            </button>
+            <div class="panel">
+              <p>The dress code is business casual for all events, day and night. The weather in Miami should be between
+                the
+                60-80s!</p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">Can I download the Quality Vision 2020 presentations?</span>
+            </button>
+            <div class="panel">
+              <p>Attendees will have the opportunity to download presentations from a secure site once the event is
+                over.</p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">How do I get to the Hilton Miami Downtown Hotel?</span>
+            </button>
+            <div class="panel">
+              <p>The hotel is 15 minutes from the Miami International Airport (MIA). <a
+                  href="https://www3.hilton.com/en/hotels/florida/hilton-miami-downtown-MIADTHF/maps-directions/index.html"
+                  target="_blank">Check the hotel</a> for directions. </p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">How do I register for the hotel room?</span>
+            </button>
+            <div class="panel">
+              <p>There are special discount rooms reserved for attendees. Your hotel room and incidental charges will be
+                your responsibility. In addition, you will get access to the health club and pool (so you don’t need to
+                pay the resort fee). The reserved room block is limited and will expire so book your hotel room now. The
+                special rate is $249/night and can be extended before and after the conference if you want to extend
+                your stay and bring guests. In order to book your hotel room, please email the hotel directly at <a href="mailto:MIADT_RES@hilton.com">MIADT_RES@hilton.com</a> to check on availability.
+              </p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">Will meals be included?</span>
+            </button>
+            <div class="panel">
+              <p>We have a welcome reception on Monday evening, March 2. On Tuesday we’ll serve breakfast, lunch and a
+                special off-site evening reception at the nearby Frost Museum. On Wednesday and Thursday, breakfast and
+                lunch and breaks are provided and a happy hour reception on Wednesday night.
+              </p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">What is the cancellation policy?</span>
+            </button>
+            <div class="panel">
+              <p>Contact <a href="mailto:etq@eventlinkintl.com?Subject=Registration Cancellation">ETQ</a> if you need to
+                cancel your registration. You may cancel for a full refund until Feb 1. A cancellation fee of 50% of
+                registration costs will be applied for cancellations received between Feb 1 and Feb 20. After Feb 20, we
+                already committed to the hotel, so we apologize there will be no refunds. Attendees are responsible for
+                cancelling their own hotel rooms directly and no-shows are non-refundable.</p>
+            </div>
+          </li>
+          <li>
+            <button class="ctrl">
+              <span class="question">Can I send a substitute in my place?</span>
+            </button>
+            <div class="panel">
+              <p>If you registered for the conference but are unable to attend, you may send a substitute in your
+                place. Substitutions should be submitted by email to <a
+                  href="mailto:etq@eventlinkintl.com?Subject=Registration Substitution">ETQ</a>.
+                Please include the original attendee’s name and the substitute’s name and contact information.</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="faq-content container-row clear">
+      <p class="additional-questions">Please contact <a href="mailto:etq@eventlinkintl.com">ETQ</a> if you have
+        any further
+        questions.</p>
+      <p class="additional-questions"><a href="http://www.cvent.com/d/xhqwwf/4W" target="_blank"
+          class="button register">Register
+          Today</a></p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <!--#include virtual="../include/footer.inc" -->
+  <!-- Close Footer -->
+
+
+  <!-- Modals -->
+
+  <!-- Leadership Forum Modals -->
+  <div id="daveRyeson" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Dave Ryeson, Partner and Associate Director at BCG</h2>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/dave-ryeson.jpg" alt="Photo of Dave Ryeson, Partner and Associate Director at BCG">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Dave Ryeson</strong> is a core member of the Industrial Goods and Operations practices at Boston
+              Consulting Group. Since joining BCG in 2005, Dave has focused on the automotive (original equipment
+              manufacturers and tier one suppliers), aerospace, pharmaceutical, industrial goods, and consumer sectors.
+              He has acquired deep expertise in manufacturing, lean advantage, cultural change, and procurement. Dave
+              believes that creating sustainable impact entails not only technical solutions but also behavioral change.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="hongXu" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Hong Xu, VP Quality, Kaiser Aluminum</h2>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/hong-xu.jpg" alt="Photo of Hong Xu, VP Quality, Kaiser Aluminum">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Hong Xu</strong>, Vice President of Quality, Kaiser Aluminum, has worked for over 25 years in the
+              aluminum, automotive, and medical device industries. He has professional and executive experiences in
+              engineering and development, continuous improvement, and quality and export compliance. A primary
+              objective in his current role is to drive a culture of quality and performance excellence among competing
+              and shifting priorities, intertwined constraints, and changing demands and environments. It is his belief
+              and experience that culture is the most critical foundation required to drive and sustain excellence in
+              quality and efficiency in the long run.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="mattLittlefield" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Matt Littlefield, President and Principal Analyst, LNS Research</h2>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/matt-littlefield.png"
+                alt="Photo of Matt Littlefield, President and Principal Analyst, LNS Research">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Matt Littlefield</strong>, President and Principal Analyst, LNS Research, leads LNS Research as
+              it fulfills its mission of driving industrial transformation. He is also a principal analyst and
+              contributes to research across the breadth of topics covered by the firm. He is a recognized industry
+              expert, and an active speaker and contributing author across the breadth of industry publications,
+              associations, and events. Previously, he worked for Aberdeen Group leading its global manufacturing
+              research practice.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Leadership Forum Modals -->
+
+  <!-- Real World Quality Journey Panel Modal-->
+  <div id="realWorldQualityJourneyPanel" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Real World Quality Journey Panel</h2>
+      <p><strong>Tuesday, March 3, 2:00pm&ndash;3:00pm</strong></p>
+      <p>One of the highest rated sessions at the Fall Conference. Hear leading organizations share where they are in
+        their quality journey. You will learn how they measure and evaluate success, how they move forward, and will
+        have your questions answered.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/company/leadership-tile-palmer_morgan.jpg"
+                alt="Photo of Morgan Palmer, Chief Technology Officer at ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Moderator: Morgan Palmer</strong>, Chief Technology Officer at ETQ,
+              has over 20 years of experience delivering software solutions. Morgan joined ETQ to create the company's
+              first software application and is now responsible for Reliance, ETQ's flagship product for quality,
+              environmental and safety management. As ETQ's Chief Technology Officer, Morgan continues to drive the
+              innovation and strategy that make ETQ the leading provider in the markets it serves.</p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../european-summit-2019/images/headshot-DannaSchum.jpg"
+                alt="Photo of Danna Schum, Director of Sales-Strategic Enterprise Accounts US & EMEA, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Moderator: Danna Schum</strong>, Director of Sales-Strategic Enterprise Accounts US &amp; EMEA,
+              ETQ, with over 20 years of experience, has been instrumental in leading software initiatives within the
+              quality industry with respect to global compliance platforms. She works with large medical,
+              pharmaceutical, chemical and technology driven corporations to help drive operational efficiencies via
+              business process automation, harmonization and standardization. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Real World Quality Journey Panel Quality Modal-->
+
+  <!-- tipsTricks Modal-->
+  <div id="tipsTricks" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Tips &amp; Tricks</h2>
+      <p><strong>Tuesday, March 3, 2:00pm&ndash;3:00pm</strong></p>
+      <p>Tips &amp; Tricks </a>: </strong>Learn from the best of ETQ. Gain insight that will help you get the
+        maximum value out of ETQ Reliance.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../european-summit-2019/images/headshot-BhavinVirani.jpg"
+                alt="Photo of Bhavin Virani, Solutions Architect, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Bhavin Virani</strong>, Solutions Architect, ETQ, has been involved in the software
+              industry for more than 10 years. In his tenure at ETQ, he has been responsible for numerous successful
+              implementations of ETQ’s Reliance for fortune 500 companies such as ExxonMobil, Mars Inc., Corning, Coca
+              Cola, and Alaska Air. He has been involved in performing technical configurations, gathering business
+              requirements, providing implementation guidance, designing the solution, project management, software
+              validation, and leading a team of software developers. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END tipsTricks Modal-->
+
+  <!-- Analytics Modal-->
+  <div id="analytics" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Analytics</h2>
+      <p><strong>Tuesday, March 3, 4:15pm&ndash;5:15pm</strong></p>
+      <p>If “data is the new oil” then ETQ is wildcatting the quality data patch! Come learn all about ETQ Insights, the
+        advanced Analytics solution, and how it can help your organization make better quality decisions.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/arthur-lee.jpg" alt="Photo of Arthur Lee, VP, Product Management, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Arthur Lee</strong>, VP, Product Management, ETQ, has more than 20 years of experience
+              and brings a record of success and expertise in the design and launch of industry leading enterprise
+              software solutions. At ETQ, Arthur leads the product management team and drives the product innovation
+              and strategy. Prior to ETQ, he led the product management and design teams at Qlik Technologies.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Analytics Modal-->
+
+  <!-- Academy Panel Modal-->
+  <div id="academyPanel" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Academy Panel </h2>
+      <p><strong>Tuesday, March 3, 4:15pm&ndash;5:15pm</strong></p>
+      <p>Always a crowd pleaser at ETQ events. ETQ Academy is an ever growing and richer store of training and
+        information for customers available 24/7 in formats from micro-learnings to major certification programs. Find
+        out what’s new and what the future holds for ETQ Academy.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/angie-maze.jpg" alt="Photo of Angie Maze, Sr. Director of Customer Experience, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Moderator: Angie Maze</strong>, Sr. Director of Customer Experience, ETQ, has more than 15
+              years’ experience leading teams in learning and development, training, system implementation, operations
+              and process improvement. Angie is the prime mover behind ETQ’s customer training solution, ETQ Academy.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Academy Panel Modal-->
+
+  <!-- Learn from the Pros Modal-->
+  <div id="learnFromProsPanel" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Learn from the Pros Panel</h2>
+      <p><strong>Wednesday, March 4, 11:00am&ndash;12:00pm</strong></p>
+      <p>This is your opportunity to learn from your fellow QMS “Super Users” who have pushed ETQ Reliance to its
+        fullest potential, and beyond. Get your questions answered! </p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/parker-corwin.jpg" alt="Photo of Parker Chase-Corwin, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Moderator: Parker Chase-Corwin</strong>, Vice President of Customer Success at ETQ, has 20 years
+              of
+              experience in building and managing customer success (CS) programs at software/technology companies. He
+              has built out CS programs at companies like Hewlett Packard, Iron Mountain, and Rapid7. Parker joined ETQ
+              in January of 2019 and built out the CS team as a new function within ETQ. Since that time, the ETQ CS
+              team has been chartered with helping customers extract maximum value from their existing ETQ solutions.
+            </p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/steven-bergeron.jpg" alt="Photo of Steven Bergeron, Director of Quality, Cree">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Panelist: Steven Bergeron</strong>, Director of Quality, Cree, is currently the director of
+              quality for US manufacturing/materials and QMS infrastructure for Cree, Inc., Durham, North Carolina and
+              president of QLR Focus LLC consulting firm. He previously served as vice president for quality and
+              reliability assurance for other semiconductor, electronics and high-tech filtration firms including Pall
+              Corporation, STEC, Conexant and Semtech. Steven's responsibilities have included selection and deployment
+              of enterprise-wide quality management systems to support company and customer specific requirements
+              compliant to various international standards including: IATF 16949:2019, AS 9100D, ISO 9001:2015 and VDA
+              6.3. He served multiple years on the Malcolm Baldrige Board of Examiners, is a Six Sigma Black Belt,
+              Certified Lean Facilitator and a Certified Quality Manager.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Learn from the Pros Modal-->
+
+  <!-- ROI of Quality Modal-->
+  <div id="roiOfQuality" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>ROI of Quality</h2>
+      <p><strong>Wednesday, March 4, 11:00am&ndash;12:00pm</strong></p>
+      <p>Learn how to measure the value of your quality program to your business and communicate that value to business
+        leaders in your organization.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/david-isaacson.jpg" alt="Photo of David Isaacson, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: David Isaacson</strong>, Senior Director of Product Marketing, ETQ, has over 25 years
+              experience in software product marketing and product management. He has successfully brought SaaS products
+              to market for a variety of industries and high-growth companies. David has worked for software companies
+              such as Anaqua, VFA/Accruent, and Oracle, where he led the product management team responsible for
+              integrating analytics into the Oracle database.</p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/adam-ryley.jpg" alt="Photo of Adam Ryley, Ingersoll Rand">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Panelist: Adam Ryley</strong>, Global Quality Management Systems (QMS) Leader, Ingersoll Rand,
+              has spent the last 11 years designing, developing, and deploying Lean based solutions across various
+              manufacturing functions (operations, quality, engineering, procurement). In his current role, Adam and his
+              team are responsible for worldwide ETQ Reliance development and deployment within Ingersoll Rand with Adam
+              being the primary architect of our ETQ solutions. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END ROI of Quality Modal-->
+
+  <!-- Product Update Modal-->
+  <div id="productUpdateTraining" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Product Update</h2>
+      <p><strong>Wednesday, March 4, 11:00am&ndash;12:00pm and 1:00&mdash;2:00pm</strong></p>
+      <p>In this session, you will hear about the new capabilities and enhancements in the new ETQ
+        Reliance Training Management application. Further, we will discuss the new Release Management process,
+        along with the new capabilities and services available to support you.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/arthur-lee.jpg" alt="Photo of Arthur Lee, VP, Product Management, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Arthur Lee</strong>, VP, Product Management, ETQ, has more than 20 years of experience
+              and brings a record of success and expertise in the design and launch of industry leading enterprise
+              software solutions. At ETQ, Arthur leads the product management team and drives the product innovation
+              and strategy. Prior to ETQ, he led the product management and design teams at Qlik Technologies.
+            </p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../european-summit-2019/images/headshot-BhavinVirani.jpg"
+                alt="Photo of Bhavin Virani, Solutions Architect, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Bhavin Virani</strong>, Solutions Architect, ETQ, has been involved in the software
+              industry for more than 10 years. In his tenure at ETQ, he has been responsible for numerous successful
+              implementations of ETQ’s Reliance for fortune 500 companies such as ExxonMobil, Mars Inc., Corning, Coca
+              Cola, and Alaska Air. He has been involved in performing technical configurations, gathering business
+              requirements, providing implementation guidance, designing the solution, project management, software
+              validation, and leading a team of software developers. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Product Update Modal-->
+
+  <!-- Future of Quality and EHSQ Modal-->
+  <div id="futureQualityEHSQ" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Future of Quality and EHSQ Panel </h2>
+      <p><strong>Wednesday, March 4, 1:00pm&ndash;2:00pm</strong></p>
+      <p>Hear a panel of your peers lead an interactive look into the future of quality and the convergence of QMS and
+        EHS systems to create an integrated platform to drive continuous improvement in your company.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/company/leadership-tile-palmer_morgan.jpg"
+                alt="Photo of Morgan Palmer, Chief Technology Officer at ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Moderator: Morgan Palmer</strong>, Chief Technology Officer at ETQ,
+              has over 20 years of experience delivering software solutions. Morgan joined ETQ to create the company's
+              first software application and is now responsible for Reliance, ETQ's flagship product for quality,
+              environmental and safety management. As ETQ's Chief Technology Officer, Morgan continues to drive the
+              innovation and strategy that make ETQ the leading provider in the markets it serves.</p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/dustin-lammers.jpg"
+                alt="Photo of Dustin Lammers, Sr. Manager Enterprise Applications, SH&E">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Panelist: Dustin Lammers</strong>, Sr. Manager Enterprise Applications, SH&amp;E has worked in
+              various IT roles for over 19 years, supporting safety, health and environment at Nutrien, SH&amp;E, legacy
+              companies and ETQ. His team supports all aspects of SH&amp;E across Nutrien’s global footprint.</p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/stephanie-taylor.jpg" alt="Photo of Stephanie Taylor, Global Director, AECOM">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Panelist: Stephanie Taylor</strong>, Global Director, AECOM has been working with clients for
+              more than 25 years, supporting the development of their management systems and compliance programs,
+              focusing on harmonized, enterprise workflows and the selection and implementation of the digital solutions
+              designed to enable those systems and programs. The team she oversees is comprised of quality,
+              environmental, and health &amp; safety subject matter experts and IT professionals. This blended team was
+              formed to help bridge the gap between the business and IT who often speak different languages, with the
+              goal of delivering fit for purpose solutions with a high degree of user adoption. She is also a member of
+              AECOM’s Innovation Council, established to identify and incorporate innovation and digital solutions in
+              AECOM’s operations and service offerings. She has a degree in chemical engineering from Northwestern
+              University and lives in Austin, Texas with her husband, son and golden retriever.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Future of Quality and EHSQ Modal-->
+
+  <!-- Plan Quality Journey Modal-->
+  <div id="planQualityJourney" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Plan your Quality Journey</h2>
+      <p><strong>Wednesday, March 4, 1:00pm&ndash;2:00pm</strong></p>
+      <p>Hear what capabilities can help you become more effective, whether you have been using a QMS for years or are
+        just starting on your quality journey.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/glen-fraser.png" alt="Photo of Glen Fraser, Sr. Director, Solution Architect, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Glen Fraser</strong>, Sr. Director, Solution Architect, ETQ, has worked in software and
+              technology for over 30 years and with ETQ for 20 of those years. A programmer analyst by training, he
+              helps organizations achieve operational excellence by understanding and deploying the power of ETQ
+              Reliance into the IT landscape.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Plan Quality Journey Modal-->
+
+  <!-- Validation for Life Sciences/Med Devices Modal-->
+  <div id="validationMedDevices" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Validation for Life Sciences/Med Devices</h2>
+      <p><strong>Wednesday, March 4, 2:30pm&ndash;3:30pm</strong></p>
+      <p>Validation is a critical and sometimes complicated topic. ETQ’s “Validation Valedictorian,” Alex Alain will
+        de-mystify the Validation process and provide actionable advice and tools to make your Validation project as
+        simple as possible.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/alex-alain.jpg" alt="Photo of Alex Alain, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Alex Alain</strong>, Life Science Practice Manager, ETQ, has over 20years of experience
+              in quality management for life sciences companies from driving quality process improvements to business
+              analysis, implementation of a quality processes, software and validation methodology. He worked in various
+              implementation projects from single site to global efforts to harmonize and automate quality processes.
+              Alex's deep experience allows him to work with customers to make software validation more efficient.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Validation for Life Sciences/Med Devices Modal-->
+
+  <!-- New Product Intro Best Practices Modal-->
+  <div id="newProdIntroBestPractices" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>New Product Introduction Best Practices</h2>
+      <p><strong>Wednesday, March 4, 2:30pm&ndash;3:30pm</strong></p>
+      <p>New product introduction (NPI) ensures market relevance and optimally market dominance. Come learn about
+        leveraging ETQ’s strategic application around Quality by design, an innovative platform – that translates
+        Quality to mean business.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/michael-moravia.png" alt="Photo of Michel Moravia, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Michel Moravia</strong>, Product Manager of Quality, ETQ, provides over 10 years of
+              experience in the biotech/ medical device industry. His expertise spans from new product introduction,
+              quality control/quality assurance, and technology &amp; manufacturing transfers. Michel holds a Master of
+              Science in Engineering and MBA from Boston University.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END New Product Intro Best Practices Modal-->
+
+  <!-- Integrations Panel Modal-->
+  <div id="integrationsPanel" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Integrations Panel</h2>
+      <p><strong>Wednesday, March 4, 2:30pm&ndash;3:30pm</strong></p>
+      <p>As customers increasingly depend on ETQ Reliance, integration with other key business systems becomes critical.
+        You will learn a practical approach to achieving simple and complex integrations with other enterprise software
+        systems such as ERP, PLM, MES and LIM.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/abhishek-semwal.jpg" alt="Photo of Abhishek Semwal, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Moderator: Abhishek Semwal</strong>, Services Practice Manager, ETQ, is a Services Practice
+              Manager, responsible for delivering successful ETQ Reliance implementations for customers. With more than
+              10 years of experience, Abhishek has led multiple enterprise Reliance implementations and has a deep
+              understanding of large-scale deployments of supplier quality processes for customers in various industries
+              such as life sciences, medical devices, general manufacturing, aviation and food and beverage.</p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/osama-solieman.png"
+                alt="Photo of Osama Solieman, Vice President of Professional Services, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Moderator: Osama Solieman</strong>, Vice President of Professional Services, ETQ, is a 12+ year
+              veteran
+              of the software industry. Osama has overseen the development and growth of the Professional Services
+              organization &mdash; Project Management Office, Implementation and Validation Services, Infrastructure,
+              and Upgrades. Osama is passionate about customer satisfaction, quality of service, and helping
+              organizations unlock the full potential of their systems.</p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/adam-ryley.jpg" alt="Photo of Adam Ryley, Ingersoll Rand">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Panelist: Adam Ryley</strong>, Global Quality Management Systems (QMS) Leader, Ingersoll Rand,
+              has spent the last 11 years designing, developing, and deploying Lean based solutions across various
+              manufacturing functions (operations, quality, engineering, procurement). In his current role, Adam and his
+              team are responsible for worldwide ETQ Reliance development and deployment within Ingersoll Rand with Adam
+              being the primary architect of our ETQ solutions. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Integrations Panel Modal-->
+
+  <!-- Getting Started with Supplier Quality Modal-->
+  <div id="gettingStartedSupplierQuality" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Getting Started with Supplier Quality</h2>
+      <p><strong>Wednesday, March 4, 3:45pm&ndash;4:45pm</strong></p>
+      <p>At ETQ, we believe "your brand is your supply chain." A well-planned and proactive supplier quality program is
+        essential to your customers' experiences, brand loyalty, and financial performance. Get started automating your
+        supplier quality in this session.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/david-isaacson.jpg" alt="Photo of David Isaacson, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: David Isaacson</strong>, Senior Director of Product Marketing, ETQ, has over 25 years
+              experience in software product marketing and product management. He has successfully brought SaaS products
+              to market for a variety of industries and high-growth companies. David has worked for software companies
+              such as Anaqua, VFA/Accruent, and Oracle, where he led the product management team responsible for
+              integrating analytics into the Oracle database.</p>
+          </div>
+        </div>
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/glen-fraser.png" alt="Photo of Glen Fraser, Sr. Director, Solution Architect, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Glen Fraser</strong>, Sr. Director, Solution Architect, ETQ, has worked in software and
+              technology for over 30 years and with ETQ for 20 of those years. A programmer analyst by training, he
+              helps organizations achieve operational excellence by understanding and deploying the power of ETQ
+              Reliance into the IT landscape.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Getting Started with Supplier Quality Modal-->
+
+  <!-- Reliance Mobile Modal-->
+  <div id="relianceMobile" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Reliance Mobile</h2>
+      <p><strong>Wednesday, March 4, 3:45pm&ndash;4:45pm</strong></p>
+      <p>Mobility has come to the QMS and EHS markets and ETQ Reliance is at the forefront of providing quality and EHS
+        management beyond the assembly line and outside of the plant walls. Learn how to take advantage of Reliance
+        industry-leading mobile solution in this hands-on session.</p>
+      <div class="all-bios">
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/sam-maxim.jpg" alt="Photo of Sam Maxim, ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Speaker: Sam Maxim</strong> has spent over a decade committed to delivering quality products in
+              multiple software industries. Sam joined ETQ recently as the product owner of the Reliance platform and
+              mobile application. With a background in software quality engineering and product management, Sam is
+              focused on integrating industry best practices into Reliance and ETQ.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Reliance Mobile Modal-->
+
+  <!-- Keynote Presentation Modal-->
+  <div id="keynotePresentation" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>Welcome and Keynote Presentation </h2>
+      <p><strong>Tuesday, March 3, 8:00am&ndash;10:00am</strong></p>
+
+      <p>The ETQ Quality Vision 2020 conference kicks off with an update on ETQ's vision and roadmap.</p>
+
+      <div class="all-bios">
+
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/company/leadership-tile-gremley_rob.jpg"
+                alt="Photo of Rob Gremley, Chief Executive Officer at ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Keynote Speaker: Rob Gremley</strong>, Chief Executive Officer at ETQ,
+              is responsible for the overall business strategy and operations of ETQ. He works closely with customers
+              to make sure the company is fully aligned with their needs and delivers quality management tools that
+              have a direct impact on business value. A career technologist, Rob has specialized in the application of
+              software to optimize business process, especially complex enterprise-level challenges. </p>
+          </div>
+        </div>
+
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/company/leadership-tile-palmer_morgan.jpg"
+                alt="Photo of Morgan Palmer, Chief Technology Officer at ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Keynote Speaker: Morgan Palmer</strong>, Chief Technology Officer at ETQ,
+              has over 20 years of experience delivering software solutions. Morgan joined ETQ to create the company's
+              first software application and is now responsible for Reliance, ETQ's flagship product for quality,
+              environmental and safety management. As ETQ's Chief Technology Officer, Morgan continues to drive the
+              innovation and strategy that make ETQ the leading provider in the markets it serves.</p>
+          </div>
+        </div>
+
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="../images/company/leadership-tile-nina_mcintyre.jpg"
+                alt="Photo of Nina McIntyre, Chief Marketing Officer at ETQ">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Keynote Speaker: Nina McIntyre</strong>, Chief Marketing Officer at ETQ,
+              is responsible for all aspects of marketing strategy, planning and execution at ETQ. She brings more than
+              25 years of operational and executive leadership experience in high-growth tech businesses, from
+              start-ups to public companies. She was previously CMO of ATG (acquired by Oracle), Carbonite, and
+              Newforma, as well as local start-ups Centive (acquired by Xactly) and Kubi Software. </p>
+          </div>
+        </div>
+
+        <div class="bio-container" style="margin-bottom: 20px">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/john-rossman.jpg" alt="Placeholder image for speaker yet to be determined"
+                style="border: 1px solid #3EB7E5;">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong style="color: #3EB7E5">Special Guest Keynote Speaker: John Rossman, Best Selling Author and
+                Former Amazon Executive</strong><br>If
+              you’re attending ETQ Quality Vision 2020, then you are clearly a catalyst for building a culture of
+              quality and innovation in your company. Our keynote speaker this year is John Rossman, best-selling author
+              of <em>Think Like Amazon: 50 1/2 Ideas to Become a Digital Leader</em> and <em>The Amazon Way: 14
+                Leadership Principles Behind the World's Most Disruptive Company</em>. John is an expert on digital
+              disruption, innovation and the Internet of Things (IoT). His keynote will focus on operational excellence
+              and building a culture of quality. Rossman is a former senior Amazon executive and principal at Rossman
+              Partners who has been at the tip of the innovation spear when it comes to creating business strategies
+              that nurture a corporate culture to deliver operational excellence. Named a "Top 30 Guru in Organizational
+              Culture" by Global Gurus, John will inspire you with his experiences, lessons learned and actionable ideas
+              as the driver behind Amazon Marketplace and Director of Amazon Enterprise Services to help you spark and
+              grow a culture of quality and excellence at your organization. John will be signing copies of his books at
+              Vision 2020.</p>
+          </div>
+        </div>
+
+      </div>
+      <!--end all bios-->
+
+    </div>
+  </div>
+  <!-- END Keynote Presentation Modal-->
+
+  <!-- LNS Panel on Supplier Quality -->
+  <div id="lnsSupplierQuality" class="modalDialog">
+    <div>
+      <a href="#close" title="Close" class="close">x</a>
+      <h2>LNS Panel on Supplier Quality</h2>
+      <p><strong>Tuesday, March 3, 1:00pm&ndash;2:00pm</strong></p>
+
+      <p>Join LNS Research
+        President and Principal Analyst,
+        Matt Littlefield and Customer Panelists Lisa McCallister from Amway and Ben Bollenbacher from Kimberly-Clark to
+        discuss "Supplier Quality and Operational Excellence." </p>
+
+      <div class="all-bios">
+
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/matt-littlefield.png"
+                alt="Photo of Matt Littlefield, President and Principal Analyst, LNS Research">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Matt Littlefield</strong>, President and Principal Analyst, LNS Research, leads LNS Research as
+              it fulfills its mission of driving industrial transformation. He is also a principal analyst and
+              contributes to research across the breadth of topics covered by the firm. He is a recognized industry
+              expert, and an active speaker and contributing author across the breadth of industry publications,
+              associations, and events. Previously, he worked for Aberdeen Group leading its global manufacturing
+              research practice.
+            </p>
+          </div>
+        </div>
+
+        <div class="bio-container">
+          <div class="bio-speaker">
+            <div class="bio-speaker-photo">
+              <img src="images/lisa-mccallister.jpg" alt="Photo of Lisa McCallister, Business Systems Analyst at Amway">
+            </div>
+          </div>
+          <div class="speaker-bio">
+            <p><strong>Lisa McCallister</strong>, Business Systems Analyst at Amway, works with quality assurance to
+              develop and deliver meaningful QMS solutions, including the development of supplier management tools.
+              Recent accomplishments include the global implementation of the ETQ audit management module as well as
+              incorporating the use of the Suppliers, Materials, and Chemicals module to track FSVP requirements
+              outlined by the new FSMA regulations. Lisa is a certified quality auditor with more than 10 years of
+              experience in quality assurance prior to transitioning into a system solutions role. Lisa holds a Bachelor
+              of Science degree from Grand Valley State University and currently resides in Grand Rapids MI.
+            </p>
+          </div>
+        </div>
+
+      </div>
+      <!--end all bios-->
+
+    </div>
+  </div>
+  <!-- END LNS Panel on Supplier Quality -->
+  <!-- Scripts -->
+  <script src="js/jquery-1.11.3.min.js?v=3.0"></script>
+  <script src="js/jquery-migrate-1.2.1.min.js?v=3.0"></script>
+  <script src="js/plugins.js?v=3.0"></script>
+  <script src="js/main.js?v=3.0"></script>
+
+  <!-- Smooth Scroll in-page -->
+  <script>
+    $(document).ready(function () {
+      $('a[href^="#"]').on('click', function (e) {
+        e.preventDefault();
+
+        var target = this.hash;
+        var $target = $(target);
+
+        $('html, body').stop().animate({
+          'scrollTop': $target.offset().top
+        }, 900, 'swing', function () {
+          window.location.hash = target;
+        });
+      });
+    });
+  </script>
+
+  <!-- Testimonials Carousel -->
+  <script src="js/jquery.bxslider.min.js?v=3.0"></script> <!-- bxSlider Javascript file -->
+  <script>
+    $(document).ready(function () {
+      $('.bxslider').bxSlider({
+        infiniteLoop: false,
+        hideControlOnEnd: true
+      });
+    });
+  </script>
+
+  <script>
+    if ($('modalDialog:target').css('opacity') == 1) {
+      console.log('yo');
+    }
+  </script>
+
+
+  <!-- Start of HubSpot Embed Code -->
+  <script id="hs-script-loader" async defer src="//js.hs-scripts.com/41636.js"></script>
+  <!-- End of HubSpot Embed Code -->
+
+
+  <script>
+    "use strict";
+    !function () {
+      var t = window.driftt = window.drift = window.driftt || [];
+      if (!t.init) {
+        if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+        t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],
+          t.factory = function (e) {
+            return function () {
+              var n = Array.prototype.slice.call(arguments);
+              return n.unshift(e), t.push(n), t;
+            };
+          }, t.methods.forEach(function (e) {
+            t[e] = t.factory(e);
+          }), t.load = function (t) {
+            var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+            o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+            var i = document.getElementsByTagName("script")[0];
+            i.parentNode.insertBefore(o, i);
+          };
+      }
+    }();
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('hsebi9tz4786');
+  </script>
+  <!-- End of Async Drift Code -->
+</body>
+
+</html>

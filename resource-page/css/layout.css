@@ -1,0 +1,740 @@
+*{
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    margin:0;
+    padding:0;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+}
+.splash-parent {
+	position: relative;
+}
+
+.splash-child {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: fit-content;
+}
+
+h1.splash-child {
+	letter-spacing: 0.1rem;
+}
+
+#intro-splash {
+	min-height: 250px;
+	background-color: rgb(65, 39, 59);
+	padding: 20px 0;
+	background-size: cover;
+	position: relative;
+}
+
+#intro-splash h1 {
+	color: #ffffff;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 44px;
+}
+
+.button-rubineRed {
+	background-color: rgb(206, 0, 88);
+	color: #FFFFFF;
+	padding: 5px 10px;
+	text-decoration: none;
+	border-radius: 5px;
+	font-family: Uni Neue regular;
+	font-weight: normal;
+}
+.button-rubineRed:hover {
+	text-decoration: none;
+	color: #eeeeee;
+}
+.button-rubineRed.footer-btn {
+	border: 0;
+	padding: 10px 15px;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+/*---------------------------------------------- Drop down panel -------------------------------------*/
+
+#drop-down-panel {
+	width: 1090px;
+	margin: auto;
+}
+#drop-down-panel-trigger {
+	padding: 8px;
+	cursor: pointer;
+	max-width: 300px;
+	margin: 0 auto 20px;
+	border: 0;
+	background: rgb(206, 0, 88);
+	color: #fff;
+	text-align: center;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-family: 'uni neue regular';
+	text-transform: uppercase;
+	font-size: .8em;
+	font-weight: bold;
+}
+#toggle {
+	display: none;
+}
+#drop-down-panel img {
+	max-width: 100%;
+}
+.drop-down-panel-message {
+	display: grid;
+	grid-template-columns: 1fr;
+}
+
+/*---------------------------------------------- END Drop down panel -------------------------------------*/
+
+
+
+/* Slideout panels */
+
+#slideout {
+	position: fixed;
+	top: 100px;
+	left: 0;
+	width: 90px;
+	padding: 12px;
+	text-align: center;
+	background: rgb(132, 175, 183);
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-border-radius: 0 5px 5px 0;
+	-moz-border-radius: 0 5px 5px 0;
+	border-radius: 0 5px 5px 0;
+	color: #fff;
+	z-index: 5;
+}
+#slideout_inner {
+	position: fixed;
+	top: 100px;
+	left: -450px;
+	background: rgb(132, 175, 183);
+	width: 450px;
+	padding: 25px;
+	height: auto;
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	text-align: left;
+	-webkit-border-radius: 0 0 5px 0;
+	-moz-border-radius: 0 0 5px 0;
+	border-radius: 0 0 5px 0;
+	z-index: 6;
+}
+#slideout_inner textarea {
+	width: 190px;
+	height: 100px;
+	margin-bottom: 6px;
+}
+#slideout:hover {
+	left: 450px;
+}
+#slideout:hover #slideout_inner {
+	left: 0;
+}
+
+/* Homepage Webinar Slideout */
+
+#webinarSlideOut {
+	position: fixed;
+	width: 300px;
+	height: auto;
+	top: 175px;
+	right: 0;
+	/* Animation  */
+	transition-property: all;
+	transition-duration: .5s;
+	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+	font-family: sans-serif;
+	z-index: 5;
+	animation: fadeInWebinarSlider 1s;
+	animation-delay: 3s;
+	opacity: 0;
+	animation-fill-mode: forwards;
+  }
+
+  @keyframes fadeInWebinarSlider {
+	from {opacity: 0;}
+	to {opacity: 100%;}
+  }
+
+  #webinarSlideOut .slideOutTab:hover {
+	cursor: pointer;
+  }
+  .hideSlideOut {
+	right: -300px !important;
+  }
+  #webinarSlideOut .slideOutTab {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	position: absolute;
+	margin-top: 0;
+	left: -30px;
+	height: 30px;
+	width: 30px;
+	-webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+	box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+	background: rgb(206, 0, 88);
+	border-radius: 5px 0px 0px 5px;
+	color: #fff;
+  }
+  #webinarSlideOut .webinar-modal-content {
+    border: 1px solid rgb(206, 0, 88);
+    height: auto;
+    padding: 0 20px 0;
+    background: rgb(65, 39, 59);
+  }
+  #webinarSlideOut h3 {
+	font-weight: bold;
+	color: rgb(206, 0, 88);
+  }
+  #webinarSlideOut h2 {
+	font-size: 1em;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin-bottom: 15px;
+  }
+  #webinarSlideOut p {
+	font-weight: normal;
+	color: #fff;
+	margin: 15px 0;
+  }
+  #webinarSlideOut .slideOutTab:after {
+	content: '\2212'
+  }
+  #webinarSlideOut .plusSign:after{
+	content: '\002B'
+  }
+  #webinarSlideOut a {
+	color: rgb(206, 0, 88);
+	text-decoration: none;
+  }
+/*---------------------------------------------- END etq.com homepage (2019) -------------------------------------*/
+
+/*---------------------------------------------- ETQ Resources -------------------------------------*/
+
+.page-container.etq-resources {
+	margin-bottom: 50px;
+}
+#etq-resources {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+	margin: auto;
+}
+.highlighted-resource {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    color: #000;
+}
+.highlighted-resource-copy {
+    padding: 10px 20px;
+    grid-column: 1 / 4;
+    border: 1px solid #ccc;
+	background: #fff;
+	position: relative;
+}
+.highlighted-resource-copy .reg-button {
+	margin-top: 30px;
+    margin-bottom: 20px;
+}
+.highlighted-resource-visual {
+	background: url(../images/video-meeting.jpg) no-repeat;
+	background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	cursor:pointer;
+	height: 100%;
+	border: 1px solid rgb(206, 0, 88);
+}
+.highlighted-resource-visual p {
+    background: rgb(206, 0, 88);
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    opacity: .9;
+    width: 100%;
+}
+.highlighted-resource-visual:hover p {
+background: rgb(79, 134, 142);
+}
+.etq-resources main a.resource-btn {
+	color: #fff;
+	padding: 10px 15px;
+	font-size: 1.2em;
+}
+.resource-details p {
+	font-size: 1.5em;
+	margin-bottom: 30px;
+}
+.etq-resources h2.highlighted-resource-title {
+	font-size: 1.75em;
+    margin-bottom: 10px;
+}
+.sidebar .highlighted-resource-title {
+    margin: 20px 0 10px;
+    line-height: 22px;
+}
+#etq-resources .mix {
+	background: white;
+	display: none;
+}
+.etq-resources {
+	color: #777;
+	font-family: "Myriad Web Pro", Helvetica, Sans-Serif;
+	font-size: .875em;
+}
+.etq-resources #intro-splash {
+	min-height: 150px;
+}
+.etq-resources main {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+	grid-gap: 1.5em;
+	max-width: 1140px;
+	padding: 1.5em;
+}
+.etq-resources main a {
+	color: #777;
+}
+.etq-resources section {
+	margin: 0;
+}
+.etq-resources article span {
+	text-transform: uppercase;
+	font-size: .8em;
+}
+.etq-resources figure.case-study {
+	background-color: rgb(65, 39, 59);
+	padding: 10px;
+}
+.etq-resources figure.case-study.video {
+	padding: 0;
+	display: grid;
+	border: 1px solid #ccc;
+}
+}
+.etq-resources section:hover {
+	box-shadow: 0 0.15em .75em hsla(0, 0%, 0%, .2);
+	cursor: initial;
+}
+.etq-resources figure {
+	height: 15.5em;
+}
+.etq-resources .upcoming-webinar {
+    background: rgb(65, 39, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    flex-direction: column;
+}
+.etq-resources .upcoming-webinar svg {
+	margin-top: 30px;
+}
+.etq-resources article {
+	padding: 2em;
+}
+.etq-resources img {
+	height: 100%;
+	object-fit: cover;
+	width: 100%;
+}
+.etq-resources img.logo-image, .case-study img {
+	object-fit: contain;
+	display: flex;
+	margin: auto;
+	max-width: 65%;
+}
+.etq-resources h1, .etq-resources h2 {
+	font-size: 1.3em;
+	margin: .25em 0 .5em;
+	text-align: left;
+	font-family: "Uni Neue Regular";
+	letter-spacing: -0.02em;
+	color: rgb(206, 0, 88);
+}
+.etq-resources p {
+	line-height: 1.4;
+}
+.etq-resources span.wistia-span {
+	font-size: 1em;
+	text-transform: initial;
+}
+.etq-resources h4 {
+	margin-bottom: .5em;
+	display: inline-flex;
+	position: relative;
+	top: 2px;
+	margin-right: 5px;
+}
+.etq-resources .clear-filter {
+	margin: 10px auto 0;
+	text-align: center;
+}
+.etq-resources .clear-filter a {
+	background: #68b8c4;
+	border: 0;
+	color: #333;
+	font-size: 14px;
+	cursor: pointer;
+	background: none;
+	text-decoration: underline;
+}
+.etq-resources .controls {
+	background: #ddd;
+	padding: 2%;
+}
+.etq-resources .form-wrapper:hover {
+	box-shadow: none;
+}
+.etq-resources fieldset {
+	display: inline;
+	vertical-align: top;
+	margin: 0 1em 0 0;
+	background: #eee;
+	padding: .5em;
+	/* min-height: 220px; */
+	border: none;
+	min-width: 100%;
+}
+.etq-resources .checkbox {
+	display: inline-flex;
+	position: relative;
+	cursor: pointer;
+	margin-bottom: 8px;
+	margin-right: 10px;
+}
+.industry-filter {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+}
+.etq-resources .checkbox input[type="checkbox"] {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	cursor: pointer;
+	margin: 0;
+	opacity: 0;
+	z-index: 1;
+}
+.etq-resources .checkbox label {
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+	padding-left: 1.5em;
+	font-weight: 300;
+}
+.etq-resources .checkbox label:before, .etq-resources .checkbox label:after {
+	content: '';
+	display: block;
+	position: absolute;
+}
+.etq-resources .checkbox label:before {
+	left: 0;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	margin-right: 10px;
+	background: #ddd;
+	border-radius: 3px;
+}
+.etq-resources .checkbox label:after {
+	content: '';
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 10px;
+	height: 10px;
+	border-radius: 2px;
+	background: #68b8c4;
+	opacity: 0;
+	pointer-events: none;
+}
+.etq-resources .checkbox input:checked~label:after {
+	opacity: 1;
+}
+.etq-resources .checkbox input:focus~label:before {
+	background: #ddd;
+}
+#etq-resources .mix {
+	display: none;
+}
+#etq-resources .fail-message {
+	display: none;
+	-webkit-transition: 150ms;
+	-moz-transition: 150ms;
+	transition: 150ms;
+	text-align: center;
+	color: rgb(206, 0, 88);
+}
+#etq-resources .fail-message p:first-child {
+	color: rgb(206, 0, 88);
+	padding: 5px;
+	text-align: left;
+}
+#etq-resources.fail .fail-message {
+	pointer-events: auto;
+	grid-column: 1 / -1;
+	display: block;
+}
+.alternate-offers {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 20px;
+	text-align: left;
+}
+.alternate-offers section {
+	background: white;
+}
+.lazy-load--item img {
+	opacity: 0;
+	display: none;
+	animation: fadeIn 0.3s ease-in-out forwards;
+}
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+		transform: scale(0.9);
+	}
+	to {
+		opacity: 1;
+		transform: scale(1);
+	}
+}
+.lazy-load--item img.loaded {
+	display: block;
+}
+
+/* Webinars Include */
+
+.upcoming-webinars-container {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 260px
+  }
+  
+  .etq-resources #webinarSlideOut .webinar-modal-content{
+	  padding-top:20px;
+  }
+  input[type="radio"] {
+	height: 0;
+	opacity: 0;
+	width: 0;
+  }
+  input[type="radio"]:checked ~ .slide {
+	-webkit-transform: translate3d(100%, 0, 0);
+			transform: translate3d(100%, 0, 0);
+  }
+  input[type="radio"]:checked + .slide {
+	opacity: 1;
+	-webkit-transform: translate3d(0, 0, 0);
+			transform: translate3d(0, 0, 0);
+	z-index: 1;
+  }
+  input[type="radio"]:checked + .slide + .nav {
+	z-index: 1;
+  }
+  input[type="radio"]:checked:nth-of-type(1) + .slide + .nav + .dots .dot:nth-child(1) {
+	background-color: rgb(206, 0, 88);
+  }
+  input[type="radio"]:checked:nth-of-type(2) + .slide + .nav + .dots .dot:nth-child(2) {
+	background-color: rgb(206, 0, 88);
+  }
+  
+  .slider {
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+  }
+
+  .slide {
+	height: 100%;
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 0;
+	-webkit-transform: translate3d(-100%, 0, 0);
+	transform: translate3d(-100%, 0, 0);
+	transition: all 1s ease;
+	width: 100%;
+  }
+
+  .slide::after {
+	color: #FFF;
+	content: attr(data-content);
+	font-size: 2.5em;
+	font-family: 'Consolas' arial, sans-serif;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate3d(-50%, -50%, 0);
+			transform: translate3d(-50%, -50%, 0);
+  }
+
+  .prev {
+	cursor: pointer;
+	float: left;
+  }
+
+  
+  .next {
+	cursor: pointer;
+	float: right;
+  }
+
+  
+  .dots {
+	padding: 20px;
+	position: absolute;
+	bottom: 0;
+	z-index: 1;
+	text-align: center;
+	width: 100%;
+  }
+  
+  .dot {
+	border: 2px solid #FFF;
+	border-radius: 50%;
+	cursor: pointer;
+	display: inline-block;
+	height: 10px;
+	width: 10px;
+  }
+
+
+
+/* END Webinars Include */
+
+/* Webinars Include for Events Sidebar (no slider) */
+  .sidebar.webinar .upcoming-webinars-container {
+    width: 100%;
+    height: 100vh;
+    margin-top: 20px;
+}
+  .sidebar.webinar .slider {
+    height: auto;
+    overflow: visible;
+}
+  .sidebar.webinar .slide {
+    height: 100%;
+    opacity: 1;
+    position: static;
+    display: inline;
+}
+
+.sidebar.webinar input[type="radio"] {
+    display: none;
+}
+
+.sidebar.webinar nav {
+	display: none;
+}
+/* END Webinars Include for Events Sidebar (no slider) */
+
+.etq-resources .covid-19 {
+    grid-column: 1 / -1;
+    font-size: 1.5em;
+    color: #000;
+    margin: 20px 0 0;
+}
+.covid-19.customers {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    padding: 20px;
+    font-size: 1.25em;
+}
+.covid-19.customers h2 {
+    text-transform: uppercase;
+	font-size: .8em;
+	color: #777;
+	margin-bottom: 15px;
+}
+.etq-resources div.covid-19 a {
+	color: rgb(206, 0, 88);
+}
+.etq-resources div.covid-19 a:hover {
+	color: #5da6b7;
+}
+
+/*---------------------------------------------- END ETQ Resources -------------------------------------*/
+
+/* MEDIA QUERIES*/
+
+@media screen and (max-width: 1100px) {
+	.etq-resources fieldset:nth-child(3) {
+		display: none;
+	}
+	.etq-resources .checkbox {
+		display: flex;
+		height: 30px;
+		border-bottom: 1px solid #ccc;
+	}
+	#drop-down-panel {
+		width: 100%;
+	}
+}
+
+
+@media screen and (max-width: 850px) {
+	#filterButtons {
+		grid-template-columns: 1fr;
+	}
+	.covid-19.customers {
+		grid-template-columns: 1fr;
+	}
+}
+
+
+@media screen and (max-width:750px) {
+	.highlighted-resource-visual {
+		padding: 20px;
+	}
+	.highlighted-resource-copy, .highlighted-resource a {
+		grid-column: 1 / -1;
+	}
+	.highlighted-resource {
+		grid-gap: 0;
+	}
+}
+
+@media screen and (max-width: 558px) {
+	#slideout {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.etq-resources #webinarSlideOut {
+		top: 50px;
+	}
+}

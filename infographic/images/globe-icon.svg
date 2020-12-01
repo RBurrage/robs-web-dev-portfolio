@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #eeece9;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>globe-icon</title>
+  <g>
+    <circle class="a" cx="18" cy="18" r="17"/>
+    <ellipse class="a" cx="18.66" cy="18.61" rx="9.25" ry="17" transform="matrix(1, -0.01, 0.01, 1, -0.82, -0.45)"/>
+    <path class="a" d="M5.81,29.73c3.1-2,7.73-3.32,12.92-3.37a24.79,24.79,0,0,1,13,3.14" transform="translate(-0.66 -0.61)"/>
+    <path class="a" d="M31.51,7.25c-3.1,2-7.73,3.32-12.92,3.37a24.67,24.67,0,0,1-13-3.14" transform="translate(-0.66 -0.61)"/>
+    <line class="a" x1="18.1" y1="1.25" x2="18.4" y2="35.25"/>
+    <line class="a" x1="35.25" y1="18.1" x2="1.25" y2="18.4"/>
+  </g>
+</svg>
