@@ -202,12 +202,13 @@ footer.wrapper > h3 a:hover {
 }
 
 .description a, .main.wrapper.clearfix a {
-    color: #666;
+    color: #0C8DB0;
     text-decoration: none;
 }
 .description a, .main.wrapper.clearfix a:hover {
-    color: #C145F2;
+    color: #F26843;
 }
+
 .description a:hover{
 	color:#0c8db0;
 }
@@ -245,20 +246,6 @@ h2{
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* ==========================================================================
    Media Queries
