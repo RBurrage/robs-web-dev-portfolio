@@ -81,6 +81,12 @@ body {
   background-size: cover;
 }
 
+.before-and-after {
+    border: 1px solid #ccc;
+    padding: 10px 40px;
+    background: #fefefe;
+    border-radius: 5px;
+}
 
 .wrapper {
     width: 90%;
@@ -286,6 +292,10 @@ h2{
 
     .oldie nav a {
         margin: 0 0.7%;
+    }
+
+    .before-and-after {
+        margin-bottom: 20px;
     }
 	
 	
